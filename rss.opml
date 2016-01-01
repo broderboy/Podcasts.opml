@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>RSS subscriptions for timothy.broder@gmail.com</title>
-    <dateCreated>Fri, 01 Jan 2016 12:09:32 -0600</dateCreated>
+    <dateCreated>Fri, 01 Jan 2016 16:06:57 -0600</dateCreated>
     <ownerEmail>timothy.broder@gmail.com</ownerEmail>
   </head>
   <body>
@@ -146,6 +146,7 @@
 <outline text="The Industry" title="The Industry" type="rss" xmlUrl="http://theindustry.cc/feed/" htmlUrl="http://theindustry.cc"/>
 <outline text="Outside Xcode" title="Outside Xcode" type="rss" xmlUrl="http://outside-xcode.com/feed/" htmlUrl="http://outside-xcode.com"/>
 <outline text="Comics Alliance" title="Comics Alliance" type="rss" xmlUrl="http://comicsalliance.com/feed/" htmlUrl="http://comicsalliance.com"/>
+<outline text="@flyosity" title="@flyosity" type="rss" xmlUrl="https://medium.com/feed/@flyosity" htmlUrl="https://medium.com/@flyosity"/>
 <outline text="Damien DeVille" title="Damien DeVille" type="rss" xmlUrl="http://ddeville.me/feed.xml" htmlUrl="http://ddeville.me"/>
 <outline text="Oro Quickies" title="Oro Quickies" type="rss" xmlUrl="http://oroquickies.wordpress.com/feed/" htmlUrl="http://oroquickies.wordpress.com/"/>
 <outline text="Allen Pike" title="Allen Pike" type="rss" xmlUrl="http://www.allenpike.com/feed/" htmlUrl="http://www.allenpike.com"/>
@@ -157,6 +158,7 @@
 <outline text="Applause Apps - Blog" title="Applause Apps - Blog" type="rss" xmlUrl="http://www.applauseapps.com.au/1/feed" htmlUrl="http://www.applauseapps.com.au/blog.html"/>
 <outline text="Girls Who Do Crossfit" title="Girls Who Do Crossfit" type="rss" xmlUrl="http://girlswhodocrossfit.tumblr.com/rss" htmlUrl="http://girlswhodocrossfit.tumblr.com/"/>
 <outline text="crossfit girls" title="crossfit girls" type="rss" xmlUrl="http://pinterest.com/werk8/crossfit-girls.rss" htmlUrl="http://pinterest.com/werk8/crossfit-girls/"/>
+<outline text="@kevinrose" title="@kevinrose" type="rss" xmlUrl="https://medium.com/feed/@kevinrose" htmlUrl="https://medium.com/@kevinrose"/>
 <outline text="carpeaqua by Justin Williams" title="carpeaqua by Justin Williams" type="rss" xmlUrl="http://feedpress.me/carpeaqua" htmlUrl="http://carpeaqua.com/"/>
 <outline text="Jared Sinclair" title="Jared Sinclair" type="rss" xmlUrl="http://blog.jaredsinclair.com/rss?1" htmlUrl="http://blog.jaredsinclair.com/"/>
 <outline text="Brandon Sanderson" title="Brandon Sanderson" type="rss" xmlUrl="http://brandonsanderson.com/feed/" htmlUrl="http://brandonsanderson.com"/>
@@ -180,6 +182,7 @@
 <outline text="Terrible Swift Ideas" title="Terrible Swift Ideas" type="rss" xmlUrl="http://terribleswiftideas.tumblr.com/rss" htmlUrl="http://terribleswiftideas.tumblr.com/"/>
 <outline text="swift radar" title="swift radar" type="rss" xmlUrl="http://swiftradar.tumblr.com/rss" htmlUrl="http://swiftradar.tumblr.com/"/>
 <outline text="Swift Programming — Medium" title="Swift Programming — Medium" type="rss" xmlUrl="https://medium.com/feed/swift-programming" htmlUrl="https://medium.com/swift-programming"/>
+<outline text="@owensd" title="@owensd" type="rss" xmlUrl="https://medium.com/feed/@owensd" htmlUrl="https://medium.com/@owensd"/>
 <outline text="orta therox" title="orta therox" type="rss" xmlUrl="http://orta.github.io/rebase/blog.atom" htmlUrl="http://orta.github.io/rebase/"/>
 <outline text="Alexandros Salazar" title="Alexandros Salazar" type="rss" xmlUrl="http://nomothetis.svbtle.com/feed" htmlUrl="http://nomothetis.svbtle.com"/>
 <outline text="GitLab" title="GitLab" type="rss" xmlUrl="https://about.gitlab.com/atom.xml" htmlUrl="https://about.gitlab.com/blog/"/>
@@ -196,6 +199,7 @@
 <outline text="Fathers, Work and Family" title="Fathers, Work and Family" type="rss" xmlUrl="http://fathersworkandfamily.com/feed/" htmlUrl="http://fathersworkandfamily.com"/>
 <outline text="The Blagoblag" title="The Blagoblag" type="rss" xmlUrl="https://alexgaynor.net/feed.xml" htmlUrl="https://alexgaynor.net/"/>
 <outline text="Relay FM" title="Relay FM" type="rss" xmlUrl="http://www.extras.relay.fm/blog?format=RSS" htmlUrl="http://www.extras.relay.fm/"/>
+<outline text="@MediumStaff" title="@MediumStaff" type="rss" xmlUrl="https://medium.com/feed/@MediumStaff" htmlUrl="https://medium.com/@MediumStaff/has-recommended"/>
 <outline text="Matthew Bischoff" title="Matthew Bischoff" type="rss" xmlUrl="http://matthewbischoff.com/feed/" htmlUrl="http://matthewbischoff.com/"/>
 <outline text="Samuel Strickland" title="Samuel Strickland" type="rss" xmlUrl="http://www.samuelstrickland.me/rss?format=RSS" htmlUrl="http://www.samuelstrickland.me/"/>
 <outline text="Florian Kugler" title="Florian Kugler" type="rss" xmlUrl="http://floriankugler.com/feed.xml" htmlUrl="http://floriankugler.com/"/>
@@ -205,14 +209,174 @@
 <outline text="Matt Stauffer on Laravel, PHP, Frontend development" title="Matt Stauffer on Laravel, PHP, Frontend development" type="rss" xmlUrl="https://mattstauffer.co/blog/feed.atom" htmlUrl="https://mattstauffer.co/blog"/>
 <outline text="Below are the posts from Fatherly." title="Below are the posts from Fatherly." type="rss" xmlUrl="https://www.fatherly.com/feeds/feed.rss" htmlUrl="http://www.fatherly.com"/>
 <outline text="Felix Krause" title="Felix Krause" type="rss" xmlUrl="https://krausefx.com/blog?format=RSS" htmlUrl="https://krausefx.com"/>
+<outline text="@justin" title="@justin" type="rss" xmlUrl="https://medium.com/feed/@justin" htmlUrl="https://medium.com/@justin"/>
 <outline text="code.dblock.org | tech blog" title="code.dblock.org | tech blog" type="rss" xmlUrl="http://code.dblock.org/feed.xml" htmlUrl="http://code.dblock.org/"/>
+<outline text="@bchesky" title="@bchesky" type="rss" xmlUrl="https://medium.com/feed/@bchesky" htmlUrl="https://medium.com/@bchesky?source=rss-bb249e5e0d1b------2"/>
+<outline text="@marcprecipice" title="@marcprecipice" type="rss" xmlUrl="https://medium.com/feed/@marcprecipice" htmlUrl="https://medium.com/@marcprecipice?source=rss-9625b12dce9a------2"/>
+<outline text="@jasonfried" title="@jasonfried" type="rss" xmlUrl="https://medium.com/feed/@jasonfried" htmlUrl="https://medium.com/@jasonfried"/>
 <outline text="rhydlewis.net" title="rhydlewis.net" type="rss" xmlUrl="http://rhydlewis.net/blog?format=RSS" htmlUrl="http://rhydlewis.net/"/>
-<outline text="Brian Donohue on Medium" title="Brian Donohue on Medium" type="rss" xmlUrl="https://medium.com/feed/@bthdonohue" htmlUrl="https://medium.com/@bthdonohue"/>
+<outline text="@ayanonagon" title="@ayanonagon" type="rss" xmlUrl="https://medium.com/feed/@ayanonagon" htmlUrl="https://medium.com/@ayanonagon"/>
+<outline text="@bthdonohue" title="@bthdonohue" type="rss" xmlUrl="https://medium.com/feed/@bthdonohue" htmlUrl="https://medium.com/@bthdonohue"/>
 <outline text="TH - Blog" title="TH - Blog" type="rss" xmlUrl="http://blog.tinyhearts.com/th-blog?format=RSS" htmlUrl="http://blog.tinyhearts.com/"/>
+<outline text="@MaxTemkin" title="@MaxTemkin" type="rss" xmlUrl="https://medium.com/feed/@MaxTemkin" htmlUrl="https://medium.com/@MaxTemkin"/>
 <outline text="Anti Patter — Medium" title="Anti Patter — Medium" type="rss" xmlUrl="https://antipatter.com/feed?gi=7c0100130430" htmlUrl="https://antipatter.com?source=rss----534111559ffc---4"/>
-<outline text="Anton Kovalyov on Medium" title="Anton Kovalyov on Medium" type="rss" xmlUrl="https://medium.com/feed/@valueof" htmlUrl="https://medium.com/@valueof?source=rss-28047b411ce------2"/>
+<outline text="@valueof" title="@valueof" type="rss" xmlUrl="https://medium.com/feed/@valueof" htmlUrl="https://medium.com/@valueof?source=rss-28047b411ce------2"/>
 <outline text="Sam Strickland" title="Sam Strickland" type="rss" xmlUrl="http://accidentalmachine.tumblr.com/rss" htmlUrl="http://accidentalmachine.tumblr.com/"/>
 <outline text="Veronica Belmont on Medium" title="Veronica Belmont on Medium" type="rss" xmlUrl="https://medium.com/feed/@veronica" htmlUrl="https://medium.com/@veronica?source=rss-2487cb5471f5------2"/>
+<outline text="@jeremyvillano" title="@jeremyvillano" type="rss" xmlUrl="https://medium.com/feed/@jeremyvillano" htmlUrl="https://medium.com/@jeremyvillano?source=rss-96476015c6b4------2"/>
+<outline text="@alanatwelmeyer" title="@alanatwelmeyer" type="rss" xmlUrl="https://medium.com/feed/@alanatwelmeyer" htmlUrl="https://medium.com/@alanatwelmeyer?source=rss-e7f4eabce7bf------2"/>
+<outline text="@antoniomallozzi" title="@antoniomallozzi" type="rss" xmlUrl="https://medium.com/feed/@antoniomallozzi" htmlUrl="https://medium.com/@antoniomallozzi?source=rss-aa64d87745cd------2"/>
+<outline text="@waynemareci" title="@waynemareci" type="rss" xmlUrl="https://medium.com/feed/@waynemareci" htmlUrl="https://medium.com/@waynemareci?source=rss-1ef7b75d61ae------2"/>
+<outline text="@NBADOG" title="@NBADOG" type="rss" xmlUrl="https://medium.com/feed/@NBADOG" htmlUrl="https://medium.com/@NBADOG?source=rss-cc7e0c9599a6------2"/>
+<outline text="@adamlake" title="@adamlake" type="rss" xmlUrl="https://medium.com/feed/@adamlake" htmlUrl="https://medium.com/@adamlake?source=rss-c4eb4fdc0ca3------2"/>
+<outline text="@kerikiernonsense" title="@kerikiernonsense" type="rss" xmlUrl="https://medium.com/feed/@kerikiernonsense" htmlUrl="https://medium.com/@kerikiernonsense?source=rss-f2b555f749f3------2"/>
+<outline text="@bits2000" title="@bits2000" type="rss" xmlUrl="https://medium.com/feed/@bits2000" htmlUrl="https://medium.com/@bits2000?source=rss-6ade8d66da9b------2"/>
+<outline text="@lukestiles" title="@lukestiles" type="rss" xmlUrl="https://medium.com/feed/@lukestiles" htmlUrl="https://medium.com/@lukestiles?source=rss-79177ca1b85d------2"/>
+<outline text="@andreaippolito" title="@andreaippolito" type="rss" xmlUrl="https://medium.com/feed/@andreaippolito" htmlUrl="https://medium.com/@andreaippolito?source=rss-ff6fe70e7439------2"/>
+<outline text="@stevenlai" title="@stevenlai" type="rss" xmlUrl="https://medium.com/feed/@stevenlai" htmlUrl="https://medium.com/@stevenlai?source=rss-538f17c00e12------2"/>
+<outline text="@maggietagarelli" title="@maggietagarelli" type="rss" xmlUrl="https://medium.com/feed/@maggietagarelli" htmlUrl="https://medium.com/@maggietagarelli?source=rss-7ef8b3f98a62------2"/>
+<outline text="@werty" title="@werty" type="rss" xmlUrl="https://medium.com/feed/@werty" htmlUrl="https://medium.com/@werty?source=rss-9fa7d049bf22------2"/>
+<outline text="@tonytao" title="@tonytao" type="rss" xmlUrl="https://medium.com/feed/@tonytao" htmlUrl="https://medium.com/@tonytao?source=rss-28a33d456c9------2"/>
+<outline text="@THRLCKDKN" title="@THRLCKDKN" type="rss" xmlUrl="https://medium.com/feed/@THRLCKDKN" htmlUrl="https://medium.com/@THRLCKDKN?source=rss-dfa4ca286cee------2"/>
+<outline text="@vadimnoskov" title="@vadimnoskov" type="rss" xmlUrl="https://medium.com/feed/@vadimnoskov" htmlUrl="https://medium.com/@vadimnoskov?source=rss-15dc56d978be------2"/>
+<outline text="@lessin" title="@lessin" type="rss" xmlUrl="https://medium.com/feed/@lessin" htmlUrl="https://medium.com/@lessin?source=rss-feb34de0caac------2"/>
+<outline text="@lauraalexander" title="@lauraalexander" type="rss" xmlUrl="https://medium.com/feed/@lauraalexander" htmlUrl="https://medium.com/@lauraalexander?source=rss-3db6e239e56b------2"/>
+<outline text="@OnDemandEconomy" title="@OnDemandEconomy" type="rss" xmlUrl="https://medium.com/feed/@OnDemandEconomy" htmlUrl="https://medium.com/@OnDemandEconomy?source=rss-a556ab5d3d52------2"/>
+<outline text="@davidjhinson_lr" title="@davidjhinson_lr" type="rss" xmlUrl="https://medium.com/feed/@davidjhinson_lr" htmlUrl="https://medium.com/@davidjhinson_lr?source=rss-388742457728------2"/>
+<outline text="@jonwestenberg" title="@jonwestenberg" type="rss" xmlUrl="https://medium.com/feed/@jonwestenberg" htmlUrl="https://medium.com/@jonwestenberg?source=rss-5ce28105ffbc------2"/>
+<outline text="@MarynaDimova" title="@MarynaDimova" type="rss" xmlUrl="https://medium.com/feed/@MarynaDimova" htmlUrl="https://medium.com/@MarynaDimova?source=rss-9d37635e825b------2"/>
+<outline text="@adamwathan" title="@adamwathan" type="rss" xmlUrl="https://medium.com/feed/@adamwathan" htmlUrl="https://medium.com/@adamwathan?source=rss-2bdb4734b294------2"/>
+<outline text="@schwa" title="@schwa" type="rss" xmlUrl="https://medium.com/feed/@schwa" htmlUrl="https://medium.com/@schwa?source=rss-2dfbb9d9a220------2"/>
+<outline text="@juliasosa" title="@juliasosa" type="rss" xmlUrl="https://medium.com/feed/@juliasosa" htmlUrl="https://medium.com/@juliasosa?source=rss-1987bd42273b------2"/>
+<outline text="@igorvolsky" title="@igorvolsky" type="rss" xmlUrl="https://medium.com/feed/@igorvolsky" htmlUrl="https://medium.com/@igorvolsky?source=rss-ec097e975dec------2"/>
+<outline text="@serialpodcast" title="@serialpodcast" type="rss" xmlUrl="https://medium.com/feed/@serialpodcast" htmlUrl="https://medium.com/@serialpodcast?source=rss-4cb2817d75fc------2"/>
+<outline text="@anthonypalomba" title="@anthonypalomba" type="rss" xmlUrl="https://medium.com/feed/@anthonypalomba" htmlUrl="https://medium.com/@anthonypalomba?source=rss-64985ff3b63e------2"/>
+<outline text="@mschoening" title="@mschoening" type="rss" xmlUrl="https://medium.com/feed/@mschoening" htmlUrl="https://medium.com/@mschoening?source=rss-64bcce19ca8d------2"/>
+<outline text="@parrots" title="@parrots" type="rss" xmlUrl="https://medium.com/feed/@parrots" htmlUrl="https://medium.com/@parrots?source=rss-4179ca326c47------2"/>
+<outline text="@sama" title="@sama" type="rss" xmlUrl="https://medium.com/feed/@sama" htmlUrl="https://medium.com/@sama?source=rss-22acd7905c72------2"/>
+<outline text="@tiffanyarment" title="@tiffanyarment" type="rss" xmlUrl="https://medium.com/feed/@tiffanyarment" htmlUrl="https://medium.com/@tiffanyarment?source=rss-187a94ef25ba------2"/>
+<outline text="@mattalexand" title="@mattalexand" type="rss" xmlUrl="https://medium.com/feed/@mattalexand" htmlUrl="https://medium.com/@mattalexand?source=rss-dd371e3b56d2------2"/>
+<outline text="@laurenmosenthal" title="@laurenmosenthal" type="rss" xmlUrl="https://medium.com/feed/@laurenmosenthal" htmlUrl="https://medium.com/@laurenmosenthal?source=rss-26871b2b6c76------2"/>
+<outline text="@MattHartman" title="@MattHartman" type="rss" xmlUrl="https://medium.com/feed/@MattHartman" htmlUrl="https://medium.com/@MattHartman?source=rss-8fe961141dd3------2"/>
+<outline text="@benthompson" title="@benthompson" type="rss" xmlUrl="https://medium.com/feed/@benthompson" htmlUrl="https://medium.com/@benthompson?source=rss-3a0c38019af9------2"/>
+<outline text="@rhyd" title="@rhyd" type="rss" xmlUrl="https://medium.com/feed/@rhyd" htmlUrl="https://medium.com/@rhyd?source=rss-6b9dd6f90e49------2"/>
+<outline text="@timferriss" title="@timferriss" type="rss" xmlUrl="https://medium.com/feed/@timferriss" htmlUrl="https://medium.com/@timferriss?source=rss-56d3bc91794f------2"/>
+<outline text="@hay" title="@hay" type="rss" xmlUrl="https://medium.com/feed/@hay" htmlUrl="https://medium.com/@hay?source=rss-bb7a24517f78------2"/>
+<outline text="@robjama" title="@robjama" type="rss" xmlUrl="https://medium.com/feed/@robjama" htmlUrl="https://medium.com/@robjama?source=rss-95422752a843------2"/>
+<outline text="@davidkarp" title="@davidkarp" type="rss" xmlUrl="https://medium.com/feed/@davidkarp" htmlUrl="https://medium.com/@davidkarp?source=rss-122d454303b3------2"/>
+<outline text="@angellist" title="@angellist" type="rss" xmlUrl="https://medium.com/feed/@angellist" htmlUrl="https://medium.com/@angellist?source=rss-5f84314adf6------2"/>
+<outline text="@dblockdotorg" title="@dblockdotorg" type="rss" xmlUrl="https://medium.com/feed/@dblockdotorg" htmlUrl="https://medium.com/@dblockdotorg?source=rss-2f22ea2c16ab------2"/>
+<outline text="@jonom" title="@jonom" type="rss" xmlUrl="https://medium.com/feed/@jonom" htmlUrl="https://medium.com/@jonom?source=rss-1e0536ee75c5------2"/>
+<outline text="@angaither" title="@angaither" type="rss" xmlUrl="https://medium.com/feed/@angaither" htmlUrl="https://medium.com/@angaither?source=rss-ff6fd63717f7------2"/>
+<outline text="@mxcl" title="@mxcl" type="rss" xmlUrl="https://medium.com/feed/@mxcl" htmlUrl="https://medium.com/@mxcl?source=rss-87f057c6e50c------2"/>
+<outline text="@brandonsavage" title="@brandonsavage" type="rss" xmlUrl="https://medium.com/feed/@brandonsavage" htmlUrl="https://medium.com/@brandonsavage?source=rss-2b018bbea9c3------2"/>
+<outline text="@marcoarment" title="@marcoarment" type="rss" xmlUrl="https://medium.com/feed/@marcoarment" htmlUrl="https://medium.com/@marcoarment?source=rss-b263e50a8bd7------2"/>
+<outline text="@calebd" title="@calebd" type="rss" xmlUrl="https://medium.com/feed/@calebd" htmlUrl="https://medium.com/@calebd?source=rss-a7c7cc6c3a52------2"/>
+<outline text="@JohnMuchow" title="@JohnMuchow" type="rss" xmlUrl="https://medium.com/feed/@JohnMuchow" htmlUrl="https://medium.com/@JohnMuchow?source=rss-9ebbb868572d------2"/>
+<outline text="@jcieplinski" title="@jcieplinski" type="rss" xmlUrl="https://medium.com/feed/@jcieplinski" htmlUrl="https://medium.com/@jcieplinski?source=rss-9d8207b174e9------2"/>
+<outline text="@benjaminbrooks" title="@benjaminbrooks" type="rss" xmlUrl="https://medium.com/feed/@benjaminbrooks" htmlUrl="https://medium.com/@benjaminbrooks?source=rss-92f53995eba3------2"/>
+<outline text="@jmacmullin" title="@jmacmullin" type="rss" xmlUrl="https://medium.com/feed/@jmacmullin" htmlUrl="https://medium.com/@jmacmullin?source=rss-34ca2ac79601------2"/>
+<outline text="@brianshaler" title="@brianshaler" type="rss" xmlUrl="https://medium.com/feed/@brianshaler" htmlUrl="https://medium.com/@brianshaler?source=rss-79ed77eee811------2"/>
+<outline text="@moniquevalcour" title="@moniquevalcour" type="rss" xmlUrl="https://medium.com/feed/@moniquevalcour" htmlUrl="https://medium.com/@moniquevalcour?source=rss-11d073ad3af6------2"/>
+<outline text="@viticci" title="@viticci" type="rss" xmlUrl="https://medium.com/feed/@viticci" htmlUrl="https://medium.com/@viticci?source=rss-fc3e65469277------2"/>
+<outline text="@BrianMueller" title="@BrianMueller" type="rss" xmlUrl="https://medium.com/feed/@BrianMueller" htmlUrl="https://medium.com/@BrianMueller?source=rss-d13ce2c8fe00------2"/>
+<outline text="@merlinmann" title="@merlinmann" type="rss" xmlUrl="https://medium.com/feed/@merlinmann" htmlUrl="https://medium.com/@merlinmann?source=rss-c11516285b1------2"/>
+<outline text="@cobyism" title="@cobyism" type="rss" xmlUrl="https://medium.com/feed/@cobyism" htmlUrl="https://medium.com/@cobyism?source=rss-d6a8c5dee9d7------2"/>
+<outline text="@worrydream" title="@worrydream" type="rss" xmlUrl="https://medium.com/feed/@worrydream" htmlUrl="https://medium.com/@worrydream?source=rss-40d569328e14------2"/>
+<outline text="@ismh" title="@ismh" type="rss" xmlUrl="https://medium.com/feed/@ismh" htmlUrl="https://medium.com/@ismh?source=rss-5d086fdb3e5a------2"/>
+<outline text="@markshust" title="@markshust" type="rss" xmlUrl="https://medium.com/feed/@markshust" htmlUrl="https://medium.com/@markshust?source=rss-f5240fd0035------2"/>
+<outline text="@kwigbo" title="@kwigbo" type="rss" xmlUrl="https://medium.com/feed/@kwigbo" htmlUrl="https://medium.com/@kwigbo?source=rss-c02db618b356------2"/>
+<outline text="@destroytoday" title="@destroytoday" type="rss" xmlUrl="https://medium.com/feed/@destroytoday" htmlUrl="https://medium.com/@destroytoday?source=rss-7f911e68fec1------2"/>
+<outline text="@benjaminjackson" title="@benjaminjackson" type="rss" xmlUrl="https://medium.com/feed/@benjaminjackson" htmlUrl="https://medium.com/@benjaminjackson?source=rss-ca9beba9f841------2"/>
+<outline text="@aaronkaump" title="@aaronkaump" type="rss" xmlUrl="https://medium.com/feed/@aaronkaump" htmlUrl="https://medium.com/@aaronkaump?source=rss-f8804046762f------2"/>
+<outline text="@philwinkle" title="@philwinkle" type="rss" xmlUrl="https://medium.com/feed/@philwinkle" htmlUrl="https://medium.com/@philwinkle?source=rss-7d88bd264641------2"/>
+<outline text="@daniel_sloof" title="@daniel_sloof" type="rss" xmlUrl="https://medium.com/feed/@daniel_sloof" htmlUrl="https://medium.com/@daniel_sloof?source=rss-44d7aa3eda08------2"/>
+<outline text="@countermind" title="@countermind" type="rss" xmlUrl="https://medium.com/feed/@countermind" htmlUrl="https://medium.com/@countermind?source=rss-7fcc403241b2------2"/>
+<outline text="@taylorotwell" title="@taylorotwell" type="rss" xmlUrl="https://medium.com/feed/@taylorotwell" htmlUrl="https://medium.com/@taylorotwell?source=rss-d694c31ce941------2"/>
+<outline text="@swizzlr" title="@swizzlr" type="rss" xmlUrl="https://medium.com/feed/@swizzlr" htmlUrl="https://medium.com/@swizzlr?source=rss-c1409e0b43b------2"/>
+<outline text="@mad_lisa" title="@mad_lisa" type="rss" xmlUrl="https://medium.com/feed/@mad_lisa" htmlUrl="https://medium.com/@mad_lisa?source=rss-abaf78deb2a1------2"/>
+<outline text="@ceterum_censeo" title="@ceterum_censeo" type="rss" xmlUrl="https://medium.com/feed/@ceterum_censeo" htmlUrl="https://medium.com/@ceterum_censeo?source=rss-accce2d17751------2"/>
+<outline text="@philsturgeon" title="@philsturgeon" type="rss" xmlUrl="https://medium.com/feed/@philsturgeon" htmlUrl="https://medium.com/@philsturgeon?source=rss-63d3c9a9b3be------2"/>
+<outline text="@lfolco" title="@lfolco" type="rss" xmlUrl="https://medium.com/feed/@lfolco" htmlUrl="https://medium.com/@lfolco?source=rss-c8a2fbd806ef------2"/>
+<outline text="@dcb" title="@dcb" type="rss" xmlUrl="https://medium.com/feed/@dcb" htmlUrl="https://medium.com/@dcb?source=rss-26ecee463a35------2"/>
+<outline text="@jngold" title="@jngold" type="rss" xmlUrl="https://medium.com/feed/@jngold" htmlUrl="https://medium.com/@jngold?source=rss-9f8f1345867b------2"/>
+<outline text="@orta" title="@orta" type="rss" xmlUrl="https://medium.com/feed/@orta" htmlUrl="https://medium.com/@orta?source=rss-d675eabc5bc7------2"/>
+<outline text="@blake_woody" title="@blake_woody" type="rss" xmlUrl="https://medium.com/feed/@blake_woody" htmlUrl="https://medium.com/@blake_woody?source=rss-fb38ae4c400a------2"/>
+<outline text="@jellybeansoup" title="@jellybeansoup" type="rss" xmlUrl="https://medium.com/feed/@jellybeansoup" htmlUrl="https://medium.com/@jellybeansoup?source=rss-1955809b4004------2"/>
+<outline text="@billkunz" title="@billkunz" type="rss" xmlUrl="https://medium.com/feed/@billkunz" htmlUrl="https://medium.com/@billkunz?source=rss-d7aa945f0591------2"/>
+<outline text="@kalenjordan" title="@kalenjordan" type="rss" xmlUrl="https://medium.com/feed/@kalenjordan" htmlUrl="https://medium.com/@kalenjordan?source=rss-234b3b43158c------2"/>
+<outline text="@kylefuller" title="@kylefuller" type="rss" xmlUrl="https://medium.com/feed/@kylefuller" htmlUrl="https://medium.com/@kylefuller?source=rss-320cfb0c01a9------2"/>
+<outline text="@bigspaceship" title="@bigspaceship" type="rss" xmlUrl="https://medium.com/feed/@bigspaceship" htmlUrl="https://medium.com/@bigspaceship?source=rss-33cef86c7886------2"/>
+<outline text="@cocoanetics" title="@cocoanetics" type="rss" xmlUrl="https://medium.com/feed/@cocoanetics" htmlUrl="https://medium.com/@cocoanetics?source=rss-cd198107d473------2"/>
+<outline text="@padraig" title="@padraig" type="rss" xmlUrl="https://medium.com/feed/@padraig" htmlUrl="https://medium.com/@padraig?source=rss-8d5bfa374370------2"/>
+<outline text="@_ChrisHarris" title="@_ChrisHarris" type="rss" xmlUrl="https://medium.com/feed/@_ChrisHarris" htmlUrl="https://medium.com/@_ChrisHarris?source=rss-dac26e7618a3------2"/>
+<outline text="@prendio2" title="@prendio2" type="rss" xmlUrl="https://medium.com/feed/@prendio2" htmlUrl="https://medium.com/@prendio2?source=rss-9e5a74c37575------2"/>
+<outline text="@scotch_io" title="@scotch_io" type="rss" xmlUrl="https://medium.com/feed/@scotch_io" htmlUrl="https://medium.com/@scotch_io?source=rss-e9803fe5a224------2"/>
+<outline text="@isaiah" title="@isaiah" type="rss" xmlUrl="https://medium.com/feed/@isaiah" htmlUrl="https://medium.com/@isaiah?source=rss-c267ca760e9------2"/>
+<outline text="@summertomato" title="@summertomato" type="rss" xmlUrl="https://medium.com/feed/@summertomato" htmlUrl="https://medium.com/@summertomato?source=rss-15d926cc73f4------2"/>
+<outline text="@lorenb" title="@lorenb" type="rss" xmlUrl="https://medium.com/feed/@lorenb" htmlUrl="https://medium.com/@lorenb?source=rss-de48cbcc3e8b------2"/>
+<outline text="@benmarks" title="@benmarks" type="rss" xmlUrl="https://medium.com/feed/@benmarks" htmlUrl="https://medium.com/@benmarks?source=rss-5fb65bfb5710------2"/>
+<outline text="@jakemarsh" title="@jakemarsh" type="rss" xmlUrl="https://medium.com/feed/@jakemarsh" htmlUrl="https://medium.com/@jakemarsh?source=rss-cc41935f0a43------2"/>
+<outline text="@hugeinc" title="@hugeinc" type="rss" xmlUrl="https://medium.com/feed/@hugeinc" htmlUrl="https://medium.com/@hugeinc?source=rss-f88f2ee26e57------2"/>
+<outline text="@chrispuckett" title="@chrispuckett" type="rss" xmlUrl="https://medium.com/feed/@chrispuckett" htmlUrl="https://medium.com/@chrispuckett?source=rss-55ff6e016cfd------2"/>
+<outline text="@koush" title="@koush" type="rss" xmlUrl="https://medium.com/feed/@koush" htmlUrl="https://medium.com/@koush?source=rss-93651163f827------2"/>
+<outline text="@natashatherobot" title="@natashatherobot" type="rss" xmlUrl="https://medium.com/feed/@natashatherobot" htmlUrl="https://medium.com/@natashatherobot?source=rss-902a4d56b584------2"/>
+<outline text="@mitchellh" title="@mitchellh" type="rss" xmlUrl="https://medium.com/feed/@mitchellh" htmlUrl="https://medium.com/@mitchellh?source=rss-6f670d3e4360------2"/>
+<outline text="@kapeli" title="@kapeli" type="rss" xmlUrl="https://medium.com/feed/@kapeli" htmlUrl="https://medium.com/@kapeli?source=rss-f1aac0988a9------2"/>
+<outline text="@davemark" title="@davemark" type="rss" xmlUrl="https://medium.com/feed/@davemark" htmlUrl="https://medium.com/@davemark?source=rss-a97a8a6411d9------2"/>
+<outline text="@jacksonps4" title="@jacksonps4" type="rss" xmlUrl="https://medium.com/feed/@jacksonps4" htmlUrl="https://medium.com/@jacksonps4?source=rss-107bdce11b31------2"/>
+<outline text="@LorenDavie" title="@LorenDavie" type="rss" xmlUrl="https://medium.com/feed/@LorenDavie" htmlUrl="https://medium.com/@LorenDavie?source=rss-a680575dedac------2"/>
+<outline text="@PHP_CEO" title="@PHP_CEO" type="rss" xmlUrl="https://medium.com/feed/@PHP_CEO" htmlUrl="https://medium.com/@PHP_CEO?source=rss-69d5f69a46f3------2"/>
+<outline text="@markkrieger" title="@markkrieger" type="rss" xmlUrl="https://medium.com/feed/@markkrieger" htmlUrl="https://medium.com/@markkrieger?source=rss-1a4451e37e0d------2"/>
+<outline text="@crystallized" title="@crystallized" type="rss" xmlUrl="https://medium.com/feed/@crystallized" htmlUrl="https://medium.com/@crystallized?source=rss-ef705cb2187a------2"/>
+<outline text="@Dropbox" title="@Dropbox" type="rss" xmlUrl="https://medium.com/feed/@Dropbox" htmlUrl="https://medium.com/@Dropbox?source=rss-2d2c8f4cb281------2"/>
+<outline text="@nnnnnnnn" title="@nnnnnnnn" type="rss" xmlUrl="https://medium.com/feed/@nnnnnnnn" htmlUrl="https://medium.com/@nnnnnnnn?source=rss-a482be7a0334------2"/>
+<outline text="@mshmsh5000" title="@mshmsh5000" type="rss" xmlUrl="https://medium.com/feed/@mshmsh5000" htmlUrl="https://medium.com/@mshmsh5000?source=rss-cdcf727b59ce------2"/>
+<outline text="@gruber" title="@gruber" type="rss" xmlUrl="https://medium.com/feed/@gruber" htmlUrl="https://medium.com/@gruber?source=rss-182e1a455da3------2"/>
+<outline text="@roCkerChick" title="@roCkerChick" type="rss" xmlUrl="https://medium.com/feed/@roCkerChick" htmlUrl="https://medium.com/@roCkerChick?source=rss-b00ea6e55cb9------2"/>
+<outline text="@luisfcolon" title="@luisfcolon" type="rss" xmlUrl="https://medium.com/feed/@luisfcolon" htmlUrl="https://medium.com/@luisfcolon?source=rss-b95661ba4bea------2"/>
+<outline text="@alexch" title="@alexch" type="rss" xmlUrl="https://medium.com/feed/@alexch" htmlUrl="https://medium.com/@alexch?source=rss-3763fb52f7a2------2"/>
+<outline text="@sethwhitton" title="@sethwhitton" type="rss" xmlUrl="https://medium.com/feed/@sethwhitton" htmlUrl="https://medium.com/@sethwhitton?source=rss-58bd84a7817------2"/>
+<outline text="@stevestreza" title="@stevestreza" type="rss" xmlUrl="https://medium.com/feed/@stevestreza" htmlUrl="https://medium.com/@stevestreza?source=rss-3462e3b1cc75------2"/>
+<outline text="@daveverwer" title="@daveverwer" type="rss" xmlUrl="https://medium.com/feed/@daveverwer" htmlUrl="https://medium.com/@daveverwer?source=rss-2b2cf018fe53------2"/>
+<outline text="@soffes" title="@soffes" type="rss" xmlUrl="https://medium.com/feed/@soffes" htmlUrl="https://medium.com/@soffes?source=rss-3e65166c6061------2"/>
+<outline text="@devindoty" title="@devindoty" type="rss" xmlUrl="https://medium.com/feed/@devindoty" htmlUrl="https://medium.com/@devindoty?source=rss-80e895873e63------2"/>
+<outline text="@dmtammaro_45895" title="@dmtammaro_45895" type="rss" xmlUrl="https://medium.com/feed/@dmtammaro_45895" htmlUrl="https://medium.com/@dmtammaro_45895?source=rss-b2d808968e3e------2"/>
+<outline text="@imyke" title="@imyke" type="rss" xmlUrl="https://medium.com/feed/@imyke" htmlUrl="https://medium.com/@imyke?source=rss-beadefb79800------2"/>
+<outline text="@jaredsinclair" title="@jaredsinclair" type="rss" xmlUrl="https://medium.com/feed/@jaredsinclair" htmlUrl="https://medium.com/@jaredsinclair?source=rss-20603c4743bd------2"/>
+<outline text="@alanquatermain" title="@alanquatermain" type="rss" xmlUrl="https://medium.com/feed/@alanquatermain" htmlUrl="https://medium.com/@alanquatermain?source=rss-41478dd1e491------2"/>
+<outline text="@danielpunkass" title="@danielpunkass" type="rss" xmlUrl="https://medium.com/feed/@danielpunkass" htmlUrl="https://medium.com/@danielpunkass?source=rss-3f778b40e5ec------2"/>
+<outline text="@joshpacelevine" title="@joshpacelevine" type="rss" xmlUrl="https://medium.com/feed/@joshpacelevine" htmlUrl="https://medium.com/@joshpacelevine?source=rss-899f76a76477------2"/>
+<outline text="@hofg" title="@hofg" type="rss" xmlUrl="https://medium.com/feed/@hofg" htmlUrl="https://medium.com/@hofg?source=rss-3180dafbdc5b------2"/>
+<outline text="@brentwpeterson" title="@brentwpeterson" type="rss" xmlUrl="https://medium.com/feed/@brentwpeterson" htmlUrl="https://medium.com/@brentwpeterson?source=rss-aecc1cf8b34f------2"/>
+<outline text="@chrismlacy" title="@chrismlacy" type="rss" xmlUrl="https://medium.com/feed/@chrismlacy" htmlUrl="https://medium.com/@chrismlacy?source=rss-84525e78953f------2"/>
+<outline text="@wlvrn" title="@wlvrn" type="rss" xmlUrl="https://medium.com/feed/@wlvrn" htmlUrl="https://medium.com/@wlvrn?source=rss-e67095f3dd3a------2"/>
+<outline text="@brandice" title="@brandice" type="rss" xmlUrl="https://medium.com/feed/@brandice" htmlUrl="https://medium.com/@brandice?source=rss-f6c56cf4e627------2"/>
+<outline text="@Twig777" title="@Twig777" type="rss" xmlUrl="https://medium.com/feed/@Twig777" htmlUrl="https://medium.com/@Twig777?source=rss-16f49e14b323------2"/>
+<outline text="@kgn" title="@kgn" type="rss" xmlUrl="https://medium.com/feed/@kgn" htmlUrl="https://medium.com/@kgn?source=rss-de36aa0283c1------2"/>
+<outline text="@lazerwalker" title="@lazerwalker" type="rss" xmlUrl="https://medium.com/feed/@lazerwalker" htmlUrl="https://medium.com/@lazerwalker?source=rss-8115021888ca------2"/>
+<outline text="@benjaminpollack" title="@benjaminpollack" type="rss" xmlUrl="https://medium.com/feed/@benjaminpollack" htmlUrl="https://medium.com/@benjaminpollack?source=rss-c436361d010e------2"/>
+<outline text="@chrismaddern" title="@chrismaddern" type="rss" xmlUrl="https://medium.com/feed/@chrismaddern" htmlUrl="https://medium.com/@chrismaddern?source=rss-b455f0cdf89a------2"/>
+<outline text="@geigeb" title="@geigeb" type="rss" xmlUrl="https://medium.com/feed/@geigeb" htmlUrl="https://medium.com/@geigeb?source=rss-53fda6938dd5------2"/>
+<outline text="@edog1203" title="@edog1203" type="rss" xmlUrl="https://medium.com/feed/@edog1203" htmlUrl="https://medium.com/@edog1203?source=rss-d2b92eb78228------2"/>
+<outline text="@drewmccormack" title="@drewmccormack" type="rss" xmlUrl="https://medium.com/feed/@drewmccormack" htmlUrl="https://medium.com/@drewmccormack?source=rss-4082d9467366------2"/>
+<outline text="@tonymillion" title="@tonymillion" type="rss" xmlUrl="https://medium.com/feed/@tonymillion" htmlUrl="https://medium.com/@tonymillion?source=rss-b39f442e540------2"/>
+<outline text="@mb" title="@mb" type="rss" xmlUrl="https://medium.com/feed/@mb" htmlUrl="https://medium.com/@mb?source=rss-e730706421a2------2"/>
+<outline text="@bcapps" title="@bcapps" type="rss" xmlUrl="https://medium.com/feed/@bcapps" htmlUrl="https://medium.com/@bcapps?source=rss-96e8416e563d------2"/>
+<outline text="@stuartkhall" title="@stuartkhall" type="rss" xmlUrl="https://medium.com/feed/@stuartkhall" htmlUrl="https://medium.com/@stuartkhall?source=rss-1bcc47cae196------2"/>
+<outline text="@irace" title="@irace" type="rss" xmlUrl="https://medium.com/feed/@irace" htmlUrl="https://medium.com/@irace?source=rss-d87552dac7ce------2"/>
+<outline text="@allanmacgregor" title="@allanmacgregor" type="rss" xmlUrl="https://medium.com/feed/@allanmacgregor" htmlUrl="https://medium.com/@allanmacgregor?source=rss-4d0ae48f37f9------2"/>
+<outline text="@janelindner" title="@janelindner" type="rss" xmlUrl="https://medium.com/feed/@janelindner" htmlUrl="https://medium.com/@janelindner?source=rss-f144dc4364fa------2"/>
+<outline text="@jerols" title="@jerols" type="rss" xmlUrl="https://medium.com/feed/@jerols" htmlUrl="https://medium.com/@jerols?source=rss-ed548f4ba6ea------2"/>
+<outline text="@anthonyholland" title="@anthonyholland" type="rss" xmlUrl="https://medium.com/feed/@anthonyholland" htmlUrl="https://medium.com/@anthonyholland?source=rss-7f915c8e559b------2"/>
+<outline text="@ashfurrow" title="@ashfurrow" type="rss" xmlUrl="https://medium.com/feed/@ashfurrow" htmlUrl="https://medium.com/@ashfurrow?source=rss-2f838fbca107------2"/>
+<outline text="@nathanbarry" title="@nathanbarry" type="rss" xmlUrl="https://medium.com/feed/@nathanbarry" htmlUrl="https://medium.com/@nathanbarry?source=rss-ac3090433602------2"/>
+<outline text="@dayoneapp" title="@dayoneapp" type="rss" xmlUrl="https://medium.com/feed/@dayoneapp" htmlUrl="https://medium.com/@dayoneapp?source=rss-3175a53f8db6------2"/>
+<outline text="@williamlanier" title="@williamlanier" type="rss" xmlUrl="https://medium.com/feed/@williamlanier" htmlUrl="https://medium.com/@williamlanier?source=rss-2b2d2b988cd9------2"/>
+<outline text="@edsamour" title="@edsamour" type="rss" xmlUrl="https://medium.com/feed/@edsamour" htmlUrl="https://medium.com/@edsamour?source=rss-80115300dff2------2"/>
+<outline text="@justinabrahms" title="@justinabrahms" type="rss" xmlUrl="https://medium.com/feed/@justinabrahms" htmlUrl="https://medium.com/@justinabrahms?source=rss-58cde62887ad------2"/>
+<outline text="@jsnell" title="@jsnell" type="rss" xmlUrl="https://medium.com/feed/@jsnell" htmlUrl="https://medium.com/@jsnell?source=rss-c376de91cd8f------2"/>
+<outline text="@arepty" title="@arepty" type="rss" xmlUrl="https://medium.com/feed/@arepty" htmlUrl="https://medium.com/@arepty?source=rss-c9b455e3abac------2"/>
     <outline text="android" title="android">
 <outline text="CyanogenMod" title="CyanogenMod" type="rss" xmlUrl="http://www.cyanogenmod.org/feed" htmlUrl="http://www.cyanogenmod.org"/>
 <outline text="Official Android Blog" title="Official Android Blog" type="rss" xmlUrl="http://feeds.feedburner.com/OfficialAndroidBlog" htmlUrl="http://officialandroid.blogspot.com/"/>
@@ -421,22 +585,186 @@
 <outline text="David Chartier, tech distiller" title="David Chartier, tech distiller" type="rss" xmlUrl="http://davidchartier.com/feed/" htmlUrl="http://davidchartier.com"/>
 <outline text="James Clear" title="James Clear" type="rss" xmlUrl="http://jamesclear.com/feed" htmlUrl="http://jamesclear.com/"/>
 <outline text="David Chartier" title="David Chartier" type="rss" xmlUrl="http://feedpress.me/chartier" htmlUrl="http://davidchartier.com"/>
+<outline text="@flyosity" title="@flyosity" type="rss" xmlUrl="https://medium.com/feed/@flyosity" htmlUrl="https://medium.com/@flyosity"/>
 <outline text="Better Elevation" title="Better Elevation" type="rss" xmlUrl="http://feedpress.me/betterelevation" htmlUrl="http://betterelevation.com"/>
 <outline text="Matthew Bischoff" title="Matthew Bischoff" type="rss" xmlUrl="http://blog.matthewbischoff.com/feed" htmlUrl="http://blog.matthewbischoff.com"/>
+<outline text="@kevinrose" title="@kevinrose" type="rss" xmlUrl="https://medium.com/feed/@kevinrose" htmlUrl="https://medium.com/@kevinrose"/>
 <outline text="Jared Sinclair" title="Jared Sinclair" type="rss" xmlUrl="http://blog.jaredsinclair.com/rss?1" htmlUrl="http://blog.jaredsinclair.com/"/>
 <outline text="Matthew Bischoff" title="Matthew Bischoff" type="rss" xmlUrl="http://mttb.me/rss" htmlUrl="http://mttb.me/"/>
 <outline text="Liss is More" title="Liss is More" type="rss" xmlUrl="http://www.caseyliss.com/rss" htmlUrl="http://www.caseyliss.com"/>
+<outline text="@owensd" title="@owensd" type="rss" xmlUrl="https://medium.com/feed/@owensd" htmlUrl="https://medium.com/@owensd"/>
 <outline text="orta therox" title="orta therox" type="rss" xmlUrl="http://orta.github.io/rebase/blog.atom" htmlUrl="http://orta.github.io/rebase/"/>
 <outline text="Blog - Stripy Sock" title="Blog - Stripy Sock" type="rss" xmlUrl="http://stripysock.com.au/blog?format=RSS" htmlUrl="http://stripysock.com.au/blog/"/>
 <outline text="ReMarks" title="ReMarks" type="rss" xmlUrl="http://bhmarks.com/blog/feed/" htmlUrl="http://bhmarks.com/blog"/>
 <outline text="The Blagoblag" title="The Blagoblag" type="rss" xmlUrl="https://alexgaynor.net/feed.xml" htmlUrl="https://alexgaynor.net/"/>
+<outline text="@MediumStaff" title="@MediumStaff" type="rss" xmlUrl="https://medium.com/feed/@MediumStaff" htmlUrl="https://medium.com/@MediumStaff/has-recommended"/>
 <outline text="Matthew Bischoff" title="Matthew Bischoff" type="rss" xmlUrl="http://matthewbischoff.com/feed/" htmlUrl="http://matthewbischoff.com/"/>
 <outline text="Florian Kugler" title="Florian Kugler" type="rss" xmlUrl="http://floriankugler.com/feed.xml" htmlUrl="http://floriankugler.com/"/>
+<outline text="@justin" title="@justin" type="rss" xmlUrl="https://medium.com/feed/@justin" htmlUrl="https://medium.com/@justin"/>
 <outline text="code.dblock.org | tech blog" title="code.dblock.org | tech blog" type="rss" xmlUrl="http://code.dblock.org/feed.xml" htmlUrl="http://code.dblock.org/"/>
-<outline text="Brian Donohue on Medium" title="Brian Donohue on Medium" type="rss" xmlUrl="https://medium.com/feed/@bthdonohue" htmlUrl="https://medium.com/@bthdonohue"/>
+<outline text="@bchesky" title="@bchesky" type="rss" xmlUrl="https://medium.com/feed/@bchesky" htmlUrl="https://medium.com/@bchesky?source=rss-bb249e5e0d1b------2"/>
+<outline text="@marcprecipice" title="@marcprecipice" type="rss" xmlUrl="https://medium.com/feed/@marcprecipice" htmlUrl="https://medium.com/@marcprecipice?source=rss-9625b12dce9a------2"/>
+<outline text="@jasonfried" title="@jasonfried" type="rss" xmlUrl="https://medium.com/feed/@jasonfried" htmlUrl="https://medium.com/@jasonfried"/>
+<outline text="@ayanonagon" title="@ayanonagon" type="rss" xmlUrl="https://medium.com/feed/@ayanonagon" htmlUrl="https://medium.com/@ayanonagon"/>
+<outline text="@bthdonohue" title="@bthdonohue" type="rss" xmlUrl="https://medium.com/feed/@bthdonohue" htmlUrl="https://medium.com/@bthdonohue"/>
+<outline text="@MaxTemkin" title="@MaxTemkin" type="rss" xmlUrl="https://medium.com/feed/@MaxTemkin" htmlUrl="https://medium.com/@MaxTemkin"/>
 <outline text="Anti Patter — Medium" title="Anti Patter — Medium" type="rss" xmlUrl="https://antipatter.com/feed?gi=7c0100130430" htmlUrl="https://antipatter.com?source=rss----534111559ffc---4"/>
-<outline text="Anton Kovalyov on Medium" title="Anton Kovalyov on Medium" type="rss" xmlUrl="https://medium.com/feed/@valueof" htmlUrl="https://medium.com/@valueof?source=rss-28047b411ce------2"/>
+<outline text="@valueof" title="@valueof" type="rss" xmlUrl="https://medium.com/feed/@valueof" htmlUrl="https://medium.com/@valueof?source=rss-28047b411ce------2"/>
 <outline text="Veronica Belmont on Medium" title="Veronica Belmont on Medium" type="rss" xmlUrl="https://medium.com/feed/@veronica" htmlUrl="https://medium.com/@veronica?source=rss-2487cb5471f5------2"/>
+<outline text="@jeremyvillano" title="@jeremyvillano" type="rss" xmlUrl="https://medium.com/feed/@jeremyvillano" htmlUrl="https://medium.com/@jeremyvillano?source=rss-96476015c6b4------2"/>
+<outline text="@alanatwelmeyer" title="@alanatwelmeyer" type="rss" xmlUrl="https://medium.com/feed/@alanatwelmeyer" htmlUrl="https://medium.com/@alanatwelmeyer?source=rss-e7f4eabce7bf------2"/>
+<outline text="@antoniomallozzi" title="@antoniomallozzi" type="rss" xmlUrl="https://medium.com/feed/@antoniomallozzi" htmlUrl="https://medium.com/@antoniomallozzi?source=rss-aa64d87745cd------2"/>
+<outline text="@waynemareci" title="@waynemareci" type="rss" xmlUrl="https://medium.com/feed/@waynemareci" htmlUrl="https://medium.com/@waynemareci?source=rss-1ef7b75d61ae------2"/>
+<outline text="@NBADOG" title="@NBADOG" type="rss" xmlUrl="https://medium.com/feed/@NBADOG" htmlUrl="https://medium.com/@NBADOG?source=rss-cc7e0c9599a6------2"/>
+<outline text="@adamlake" title="@adamlake" type="rss" xmlUrl="https://medium.com/feed/@adamlake" htmlUrl="https://medium.com/@adamlake?source=rss-c4eb4fdc0ca3------2"/>
+<outline text="@kerikiernonsense" title="@kerikiernonsense" type="rss" xmlUrl="https://medium.com/feed/@kerikiernonsense" htmlUrl="https://medium.com/@kerikiernonsense?source=rss-f2b555f749f3------2"/>
+<outline text="@bits2000" title="@bits2000" type="rss" xmlUrl="https://medium.com/feed/@bits2000" htmlUrl="https://medium.com/@bits2000?source=rss-6ade8d66da9b------2"/>
+<outline text="@lukestiles" title="@lukestiles" type="rss" xmlUrl="https://medium.com/feed/@lukestiles" htmlUrl="https://medium.com/@lukestiles?source=rss-79177ca1b85d------2"/>
+<outline text="@andreaippolito" title="@andreaippolito" type="rss" xmlUrl="https://medium.com/feed/@andreaippolito" htmlUrl="https://medium.com/@andreaippolito?source=rss-ff6fe70e7439------2"/>
+<outline text="@stevenlai" title="@stevenlai" type="rss" xmlUrl="https://medium.com/feed/@stevenlai" htmlUrl="https://medium.com/@stevenlai?source=rss-538f17c00e12------2"/>
+<outline text="@maggietagarelli" title="@maggietagarelli" type="rss" xmlUrl="https://medium.com/feed/@maggietagarelli" htmlUrl="https://medium.com/@maggietagarelli?source=rss-7ef8b3f98a62------2"/>
+<outline text="@werty" title="@werty" type="rss" xmlUrl="https://medium.com/feed/@werty" htmlUrl="https://medium.com/@werty?source=rss-9fa7d049bf22------2"/>
+<outline text="@tonytao" title="@tonytao" type="rss" xmlUrl="https://medium.com/feed/@tonytao" htmlUrl="https://medium.com/@tonytao?source=rss-28a33d456c9------2"/>
+<outline text="@THRLCKDKN" title="@THRLCKDKN" type="rss" xmlUrl="https://medium.com/feed/@THRLCKDKN" htmlUrl="https://medium.com/@THRLCKDKN?source=rss-dfa4ca286cee------2"/>
+<outline text="@vadimnoskov" title="@vadimnoskov" type="rss" xmlUrl="https://medium.com/feed/@vadimnoskov" htmlUrl="https://medium.com/@vadimnoskov?source=rss-15dc56d978be------2"/>
+<outline text="@lessin" title="@lessin" type="rss" xmlUrl="https://medium.com/feed/@lessin" htmlUrl="https://medium.com/@lessin?source=rss-feb34de0caac------2"/>
+<outline text="@lauraalexander" title="@lauraalexander" type="rss" xmlUrl="https://medium.com/feed/@lauraalexander" htmlUrl="https://medium.com/@lauraalexander?source=rss-3db6e239e56b------2"/>
+<outline text="@OnDemandEconomy" title="@OnDemandEconomy" type="rss" xmlUrl="https://medium.com/feed/@OnDemandEconomy" htmlUrl="https://medium.com/@OnDemandEconomy?source=rss-a556ab5d3d52------2"/>
+<outline text="@davidjhinson_lr" title="@davidjhinson_lr" type="rss" xmlUrl="https://medium.com/feed/@davidjhinson_lr" htmlUrl="https://medium.com/@davidjhinson_lr?source=rss-388742457728------2"/>
+<outline text="@jonwestenberg" title="@jonwestenberg" type="rss" xmlUrl="https://medium.com/feed/@jonwestenberg" htmlUrl="https://medium.com/@jonwestenberg?source=rss-5ce28105ffbc------2"/>
+<outline text="@MarynaDimova" title="@MarynaDimova" type="rss" xmlUrl="https://medium.com/feed/@MarynaDimova" htmlUrl="https://medium.com/@MarynaDimova?source=rss-9d37635e825b------2"/>
+<outline text="@adamwathan" title="@adamwathan" type="rss" xmlUrl="https://medium.com/feed/@adamwathan" htmlUrl="https://medium.com/@adamwathan?source=rss-2bdb4734b294------2"/>
+<outline text="@schwa" title="@schwa" type="rss" xmlUrl="https://medium.com/feed/@schwa" htmlUrl="https://medium.com/@schwa?source=rss-2dfbb9d9a220------2"/>
+<outline text="@juliasosa" title="@juliasosa" type="rss" xmlUrl="https://medium.com/feed/@juliasosa" htmlUrl="https://medium.com/@juliasosa?source=rss-1987bd42273b------2"/>
+<outline text="@igorvolsky" title="@igorvolsky" type="rss" xmlUrl="https://medium.com/feed/@igorvolsky" htmlUrl="https://medium.com/@igorvolsky?source=rss-ec097e975dec------2"/>
+<outline text="@serialpodcast" title="@serialpodcast" type="rss" xmlUrl="https://medium.com/feed/@serialpodcast" htmlUrl="https://medium.com/@serialpodcast?source=rss-4cb2817d75fc------2"/>
+<outline text="@anthonypalomba" title="@anthonypalomba" type="rss" xmlUrl="https://medium.com/feed/@anthonypalomba" htmlUrl="https://medium.com/@anthonypalomba?source=rss-64985ff3b63e------2"/>
+<outline text="@mschoening" title="@mschoening" type="rss" xmlUrl="https://medium.com/feed/@mschoening" htmlUrl="https://medium.com/@mschoening?source=rss-64bcce19ca8d------2"/>
+<outline text="@parrots" title="@parrots" type="rss" xmlUrl="https://medium.com/feed/@parrots" htmlUrl="https://medium.com/@parrots?source=rss-4179ca326c47------2"/>
+<outline text="@sama" title="@sama" type="rss" xmlUrl="https://medium.com/feed/@sama" htmlUrl="https://medium.com/@sama?source=rss-22acd7905c72------2"/>
+<outline text="@tiffanyarment" title="@tiffanyarment" type="rss" xmlUrl="https://medium.com/feed/@tiffanyarment" htmlUrl="https://medium.com/@tiffanyarment?source=rss-187a94ef25ba------2"/>
+<outline text="@mattalexand" title="@mattalexand" type="rss" xmlUrl="https://medium.com/feed/@mattalexand" htmlUrl="https://medium.com/@mattalexand?source=rss-dd371e3b56d2------2"/>
+<outline text="@laurenmosenthal" title="@laurenmosenthal" type="rss" xmlUrl="https://medium.com/feed/@laurenmosenthal" htmlUrl="https://medium.com/@laurenmosenthal?source=rss-26871b2b6c76------2"/>
+<outline text="@MattHartman" title="@MattHartman" type="rss" xmlUrl="https://medium.com/feed/@MattHartman" htmlUrl="https://medium.com/@MattHartman?source=rss-8fe961141dd3------2"/>
+<outline text="@benthompson" title="@benthompson" type="rss" xmlUrl="https://medium.com/feed/@benthompson" htmlUrl="https://medium.com/@benthompson?source=rss-3a0c38019af9------2"/>
+<outline text="@rhyd" title="@rhyd" type="rss" xmlUrl="https://medium.com/feed/@rhyd" htmlUrl="https://medium.com/@rhyd?source=rss-6b9dd6f90e49------2"/>
+<outline text="@timferriss" title="@timferriss" type="rss" xmlUrl="https://medium.com/feed/@timferriss" htmlUrl="https://medium.com/@timferriss?source=rss-56d3bc91794f------2"/>
+<outline text="@hay" title="@hay" type="rss" xmlUrl="https://medium.com/feed/@hay" htmlUrl="https://medium.com/@hay?source=rss-bb7a24517f78------2"/>
+<outline text="@robjama" title="@robjama" type="rss" xmlUrl="https://medium.com/feed/@robjama" htmlUrl="https://medium.com/@robjama?source=rss-95422752a843------2"/>
+<outline text="@davidkarp" title="@davidkarp" type="rss" xmlUrl="https://medium.com/feed/@davidkarp" htmlUrl="https://medium.com/@davidkarp?source=rss-122d454303b3------2"/>
+<outline text="@angellist" title="@angellist" type="rss" xmlUrl="https://medium.com/feed/@angellist" htmlUrl="https://medium.com/@angellist?source=rss-5f84314adf6------2"/>
+<outline text="@dblockdotorg" title="@dblockdotorg" type="rss" xmlUrl="https://medium.com/feed/@dblockdotorg" htmlUrl="https://medium.com/@dblockdotorg?source=rss-2f22ea2c16ab------2"/>
+<outline text="@jonom" title="@jonom" type="rss" xmlUrl="https://medium.com/feed/@jonom" htmlUrl="https://medium.com/@jonom?source=rss-1e0536ee75c5------2"/>
+<outline text="@angaither" title="@angaither" type="rss" xmlUrl="https://medium.com/feed/@angaither" htmlUrl="https://medium.com/@angaither?source=rss-ff6fd63717f7------2"/>
+<outline text="@mxcl" title="@mxcl" type="rss" xmlUrl="https://medium.com/feed/@mxcl" htmlUrl="https://medium.com/@mxcl?source=rss-87f057c6e50c------2"/>
+<outline text="@brandonsavage" title="@brandonsavage" type="rss" xmlUrl="https://medium.com/feed/@brandonsavage" htmlUrl="https://medium.com/@brandonsavage?source=rss-2b018bbea9c3------2"/>
+<outline text="@marcoarment" title="@marcoarment" type="rss" xmlUrl="https://medium.com/feed/@marcoarment" htmlUrl="https://medium.com/@marcoarment?source=rss-b263e50a8bd7------2"/>
+<outline text="@calebd" title="@calebd" type="rss" xmlUrl="https://medium.com/feed/@calebd" htmlUrl="https://medium.com/@calebd?source=rss-a7c7cc6c3a52------2"/>
+<outline text="@JohnMuchow" title="@JohnMuchow" type="rss" xmlUrl="https://medium.com/feed/@JohnMuchow" htmlUrl="https://medium.com/@JohnMuchow?source=rss-9ebbb868572d------2"/>
+<outline text="@jcieplinski" title="@jcieplinski" type="rss" xmlUrl="https://medium.com/feed/@jcieplinski" htmlUrl="https://medium.com/@jcieplinski?source=rss-9d8207b174e9------2"/>
+<outline text="@benjaminbrooks" title="@benjaminbrooks" type="rss" xmlUrl="https://medium.com/feed/@benjaminbrooks" htmlUrl="https://medium.com/@benjaminbrooks?source=rss-92f53995eba3------2"/>
+<outline text="@jmacmullin" title="@jmacmullin" type="rss" xmlUrl="https://medium.com/feed/@jmacmullin" htmlUrl="https://medium.com/@jmacmullin?source=rss-34ca2ac79601------2"/>
+<outline text="@brianshaler" title="@brianshaler" type="rss" xmlUrl="https://medium.com/feed/@brianshaler" htmlUrl="https://medium.com/@brianshaler?source=rss-79ed77eee811------2"/>
+<outline text="@moniquevalcour" title="@moniquevalcour" type="rss" xmlUrl="https://medium.com/feed/@moniquevalcour" htmlUrl="https://medium.com/@moniquevalcour?source=rss-11d073ad3af6------2"/>
+<outline text="@viticci" title="@viticci" type="rss" xmlUrl="https://medium.com/feed/@viticci" htmlUrl="https://medium.com/@viticci?source=rss-fc3e65469277------2"/>
+<outline text="@BrianMueller" title="@BrianMueller" type="rss" xmlUrl="https://medium.com/feed/@BrianMueller" htmlUrl="https://medium.com/@BrianMueller?source=rss-d13ce2c8fe00------2"/>
+<outline text="@merlinmann" title="@merlinmann" type="rss" xmlUrl="https://medium.com/feed/@merlinmann" htmlUrl="https://medium.com/@merlinmann?source=rss-c11516285b1------2"/>
+<outline text="@cobyism" title="@cobyism" type="rss" xmlUrl="https://medium.com/feed/@cobyism" htmlUrl="https://medium.com/@cobyism?source=rss-d6a8c5dee9d7------2"/>
+<outline text="@worrydream" title="@worrydream" type="rss" xmlUrl="https://medium.com/feed/@worrydream" htmlUrl="https://medium.com/@worrydream?source=rss-40d569328e14------2"/>
+<outline text="@ismh" title="@ismh" type="rss" xmlUrl="https://medium.com/feed/@ismh" htmlUrl="https://medium.com/@ismh?source=rss-5d086fdb3e5a------2"/>
+<outline text="@markshust" title="@markshust" type="rss" xmlUrl="https://medium.com/feed/@markshust" htmlUrl="https://medium.com/@markshust?source=rss-f5240fd0035------2"/>
+<outline text="@kwigbo" title="@kwigbo" type="rss" xmlUrl="https://medium.com/feed/@kwigbo" htmlUrl="https://medium.com/@kwigbo?source=rss-c02db618b356------2"/>
+<outline text="@destroytoday" title="@destroytoday" type="rss" xmlUrl="https://medium.com/feed/@destroytoday" htmlUrl="https://medium.com/@destroytoday?source=rss-7f911e68fec1------2"/>
+<outline text="@benjaminjackson" title="@benjaminjackson" type="rss" xmlUrl="https://medium.com/feed/@benjaminjackson" htmlUrl="https://medium.com/@benjaminjackson?source=rss-ca9beba9f841------2"/>
+<outline text="@aaronkaump" title="@aaronkaump" type="rss" xmlUrl="https://medium.com/feed/@aaronkaump" htmlUrl="https://medium.com/@aaronkaump?source=rss-f8804046762f------2"/>
+<outline text="@philwinkle" title="@philwinkle" type="rss" xmlUrl="https://medium.com/feed/@philwinkle" htmlUrl="https://medium.com/@philwinkle?source=rss-7d88bd264641------2"/>
+<outline text="@daniel_sloof" title="@daniel_sloof" type="rss" xmlUrl="https://medium.com/feed/@daniel_sloof" htmlUrl="https://medium.com/@daniel_sloof?source=rss-44d7aa3eda08------2"/>
+<outline text="@countermind" title="@countermind" type="rss" xmlUrl="https://medium.com/feed/@countermind" htmlUrl="https://medium.com/@countermind?source=rss-7fcc403241b2------2"/>
+<outline text="@taylorotwell" title="@taylorotwell" type="rss" xmlUrl="https://medium.com/feed/@taylorotwell" htmlUrl="https://medium.com/@taylorotwell?source=rss-d694c31ce941------2"/>
+<outline text="@swizzlr" title="@swizzlr" type="rss" xmlUrl="https://medium.com/feed/@swizzlr" htmlUrl="https://medium.com/@swizzlr?source=rss-c1409e0b43b------2"/>
+<outline text="@mad_lisa" title="@mad_lisa" type="rss" xmlUrl="https://medium.com/feed/@mad_lisa" htmlUrl="https://medium.com/@mad_lisa?source=rss-abaf78deb2a1------2"/>
+<outline text="@ceterum_censeo" title="@ceterum_censeo" type="rss" xmlUrl="https://medium.com/feed/@ceterum_censeo" htmlUrl="https://medium.com/@ceterum_censeo?source=rss-accce2d17751------2"/>
+<outline text="@philsturgeon" title="@philsturgeon" type="rss" xmlUrl="https://medium.com/feed/@philsturgeon" htmlUrl="https://medium.com/@philsturgeon?source=rss-63d3c9a9b3be------2"/>
+<outline text="@lfolco" title="@lfolco" type="rss" xmlUrl="https://medium.com/feed/@lfolco" htmlUrl="https://medium.com/@lfolco?source=rss-c8a2fbd806ef------2"/>
+<outline text="@dcb" title="@dcb" type="rss" xmlUrl="https://medium.com/feed/@dcb" htmlUrl="https://medium.com/@dcb?source=rss-26ecee463a35------2"/>
+<outline text="@jngold" title="@jngold" type="rss" xmlUrl="https://medium.com/feed/@jngold" htmlUrl="https://medium.com/@jngold?source=rss-9f8f1345867b------2"/>
+<outline text="@orta" title="@orta" type="rss" xmlUrl="https://medium.com/feed/@orta" htmlUrl="https://medium.com/@orta?source=rss-d675eabc5bc7------2"/>
+<outline text="@blake_woody" title="@blake_woody" type="rss" xmlUrl="https://medium.com/feed/@blake_woody" htmlUrl="https://medium.com/@blake_woody?source=rss-fb38ae4c400a------2"/>
+<outline text="@jellybeansoup" title="@jellybeansoup" type="rss" xmlUrl="https://medium.com/feed/@jellybeansoup" htmlUrl="https://medium.com/@jellybeansoup?source=rss-1955809b4004------2"/>
+<outline text="@billkunz" title="@billkunz" type="rss" xmlUrl="https://medium.com/feed/@billkunz" htmlUrl="https://medium.com/@billkunz?source=rss-d7aa945f0591------2"/>
+<outline text="@kalenjordan" title="@kalenjordan" type="rss" xmlUrl="https://medium.com/feed/@kalenjordan" htmlUrl="https://medium.com/@kalenjordan?source=rss-234b3b43158c------2"/>
+<outline text="@kylefuller" title="@kylefuller" type="rss" xmlUrl="https://medium.com/feed/@kylefuller" htmlUrl="https://medium.com/@kylefuller?source=rss-320cfb0c01a9------2"/>
+<outline text="@bigspaceship" title="@bigspaceship" type="rss" xmlUrl="https://medium.com/feed/@bigspaceship" htmlUrl="https://medium.com/@bigspaceship?source=rss-33cef86c7886------2"/>
+<outline text="@cocoanetics" title="@cocoanetics" type="rss" xmlUrl="https://medium.com/feed/@cocoanetics" htmlUrl="https://medium.com/@cocoanetics?source=rss-cd198107d473------2"/>
+<outline text="@padraig" title="@padraig" type="rss" xmlUrl="https://medium.com/feed/@padraig" htmlUrl="https://medium.com/@padraig?source=rss-8d5bfa374370------2"/>
+<outline text="@_ChrisHarris" title="@_ChrisHarris" type="rss" xmlUrl="https://medium.com/feed/@_ChrisHarris" htmlUrl="https://medium.com/@_ChrisHarris?source=rss-dac26e7618a3------2"/>
+<outline text="@prendio2" title="@prendio2" type="rss" xmlUrl="https://medium.com/feed/@prendio2" htmlUrl="https://medium.com/@prendio2?source=rss-9e5a74c37575------2"/>
+<outline text="@scotch_io" title="@scotch_io" type="rss" xmlUrl="https://medium.com/feed/@scotch_io" htmlUrl="https://medium.com/@scotch_io?source=rss-e9803fe5a224------2"/>
+<outline text="@isaiah" title="@isaiah" type="rss" xmlUrl="https://medium.com/feed/@isaiah" htmlUrl="https://medium.com/@isaiah?source=rss-c267ca760e9------2"/>
+<outline text="@summertomato" title="@summertomato" type="rss" xmlUrl="https://medium.com/feed/@summertomato" htmlUrl="https://medium.com/@summertomato?source=rss-15d926cc73f4------2"/>
+<outline text="@lorenb" title="@lorenb" type="rss" xmlUrl="https://medium.com/feed/@lorenb" htmlUrl="https://medium.com/@lorenb?source=rss-de48cbcc3e8b------2"/>
+<outline text="@benmarks" title="@benmarks" type="rss" xmlUrl="https://medium.com/feed/@benmarks" htmlUrl="https://medium.com/@benmarks?source=rss-5fb65bfb5710------2"/>
+<outline text="@jakemarsh" title="@jakemarsh" type="rss" xmlUrl="https://medium.com/feed/@jakemarsh" htmlUrl="https://medium.com/@jakemarsh?source=rss-cc41935f0a43------2"/>
+<outline text="@hugeinc" title="@hugeinc" type="rss" xmlUrl="https://medium.com/feed/@hugeinc" htmlUrl="https://medium.com/@hugeinc?source=rss-f88f2ee26e57------2"/>
+<outline text="@chrispuckett" title="@chrispuckett" type="rss" xmlUrl="https://medium.com/feed/@chrispuckett" htmlUrl="https://medium.com/@chrispuckett?source=rss-55ff6e016cfd------2"/>
+<outline text="@koush" title="@koush" type="rss" xmlUrl="https://medium.com/feed/@koush" htmlUrl="https://medium.com/@koush?source=rss-93651163f827------2"/>
+<outline text="@natashatherobot" title="@natashatherobot" type="rss" xmlUrl="https://medium.com/feed/@natashatherobot" htmlUrl="https://medium.com/@natashatherobot?source=rss-902a4d56b584------2"/>
+<outline text="@mitchellh" title="@mitchellh" type="rss" xmlUrl="https://medium.com/feed/@mitchellh" htmlUrl="https://medium.com/@mitchellh?source=rss-6f670d3e4360------2"/>
+<outline text="@kapeli" title="@kapeli" type="rss" xmlUrl="https://medium.com/feed/@kapeli" htmlUrl="https://medium.com/@kapeli?source=rss-f1aac0988a9------2"/>
+<outline text="@davemark" title="@davemark" type="rss" xmlUrl="https://medium.com/feed/@davemark" htmlUrl="https://medium.com/@davemark?source=rss-a97a8a6411d9------2"/>
+<outline text="@jacksonps4" title="@jacksonps4" type="rss" xmlUrl="https://medium.com/feed/@jacksonps4" htmlUrl="https://medium.com/@jacksonps4?source=rss-107bdce11b31------2"/>
+<outline text="@LorenDavie" title="@LorenDavie" type="rss" xmlUrl="https://medium.com/feed/@LorenDavie" htmlUrl="https://medium.com/@LorenDavie?source=rss-a680575dedac------2"/>
+<outline text="@PHP_CEO" title="@PHP_CEO" type="rss" xmlUrl="https://medium.com/feed/@PHP_CEO" htmlUrl="https://medium.com/@PHP_CEO?source=rss-69d5f69a46f3------2"/>
+<outline text="@markkrieger" title="@markkrieger" type="rss" xmlUrl="https://medium.com/feed/@markkrieger" htmlUrl="https://medium.com/@markkrieger?source=rss-1a4451e37e0d------2"/>
+<outline text="@crystallized" title="@crystallized" type="rss" xmlUrl="https://medium.com/feed/@crystallized" htmlUrl="https://medium.com/@crystallized?source=rss-ef705cb2187a------2"/>
+<outline text="@Dropbox" title="@Dropbox" type="rss" xmlUrl="https://medium.com/feed/@Dropbox" htmlUrl="https://medium.com/@Dropbox?source=rss-2d2c8f4cb281------2"/>
+<outline text="@nnnnnnnn" title="@nnnnnnnn" type="rss" xmlUrl="https://medium.com/feed/@nnnnnnnn" htmlUrl="https://medium.com/@nnnnnnnn?source=rss-a482be7a0334------2"/>
+<outline text="@mshmsh5000" title="@mshmsh5000" type="rss" xmlUrl="https://medium.com/feed/@mshmsh5000" htmlUrl="https://medium.com/@mshmsh5000?source=rss-cdcf727b59ce------2"/>
+<outline text="@gruber" title="@gruber" type="rss" xmlUrl="https://medium.com/feed/@gruber" htmlUrl="https://medium.com/@gruber?source=rss-182e1a455da3------2"/>
+<outline text="@roCkerChick" title="@roCkerChick" type="rss" xmlUrl="https://medium.com/feed/@roCkerChick" htmlUrl="https://medium.com/@roCkerChick?source=rss-b00ea6e55cb9------2"/>
+<outline text="@luisfcolon" title="@luisfcolon" type="rss" xmlUrl="https://medium.com/feed/@luisfcolon" htmlUrl="https://medium.com/@luisfcolon?source=rss-b95661ba4bea------2"/>
+<outline text="@alexch" title="@alexch" type="rss" xmlUrl="https://medium.com/feed/@alexch" htmlUrl="https://medium.com/@alexch?source=rss-3763fb52f7a2------2"/>
+<outline text="@sethwhitton" title="@sethwhitton" type="rss" xmlUrl="https://medium.com/feed/@sethwhitton" htmlUrl="https://medium.com/@sethwhitton?source=rss-58bd84a7817------2"/>
+<outline text="@stevestreza" title="@stevestreza" type="rss" xmlUrl="https://medium.com/feed/@stevestreza" htmlUrl="https://medium.com/@stevestreza?source=rss-3462e3b1cc75------2"/>
+<outline text="@daveverwer" title="@daveverwer" type="rss" xmlUrl="https://medium.com/feed/@daveverwer" htmlUrl="https://medium.com/@daveverwer?source=rss-2b2cf018fe53------2"/>
+<outline text="@soffes" title="@soffes" type="rss" xmlUrl="https://medium.com/feed/@soffes" htmlUrl="https://medium.com/@soffes?source=rss-3e65166c6061------2"/>
+<outline text="@devindoty" title="@devindoty" type="rss" xmlUrl="https://medium.com/feed/@devindoty" htmlUrl="https://medium.com/@devindoty?source=rss-80e895873e63------2"/>
+<outline text="@dmtammaro_45895" title="@dmtammaro_45895" type="rss" xmlUrl="https://medium.com/feed/@dmtammaro_45895" htmlUrl="https://medium.com/@dmtammaro_45895?source=rss-b2d808968e3e------2"/>
+<outline text="@imyke" title="@imyke" type="rss" xmlUrl="https://medium.com/feed/@imyke" htmlUrl="https://medium.com/@imyke?source=rss-beadefb79800------2"/>
+<outline text="@jaredsinclair" title="@jaredsinclair" type="rss" xmlUrl="https://medium.com/feed/@jaredsinclair" htmlUrl="https://medium.com/@jaredsinclair?source=rss-20603c4743bd------2"/>
+<outline text="@alanquatermain" title="@alanquatermain" type="rss" xmlUrl="https://medium.com/feed/@alanquatermain" htmlUrl="https://medium.com/@alanquatermain?source=rss-41478dd1e491------2"/>
+<outline text="@danielpunkass" title="@danielpunkass" type="rss" xmlUrl="https://medium.com/feed/@danielpunkass" htmlUrl="https://medium.com/@danielpunkass?source=rss-3f778b40e5ec------2"/>
+<outline text="@joshpacelevine" title="@joshpacelevine" type="rss" xmlUrl="https://medium.com/feed/@joshpacelevine" htmlUrl="https://medium.com/@joshpacelevine?source=rss-899f76a76477------2"/>
+<outline text="@hofg" title="@hofg" type="rss" xmlUrl="https://medium.com/feed/@hofg" htmlUrl="https://medium.com/@hofg?source=rss-3180dafbdc5b------2"/>
+<outline text="@brentwpeterson" title="@brentwpeterson" type="rss" xmlUrl="https://medium.com/feed/@brentwpeterson" htmlUrl="https://medium.com/@brentwpeterson?source=rss-aecc1cf8b34f------2"/>
+<outline text="@chrismlacy" title="@chrismlacy" type="rss" xmlUrl="https://medium.com/feed/@chrismlacy" htmlUrl="https://medium.com/@chrismlacy?source=rss-84525e78953f------2"/>
+<outline text="@wlvrn" title="@wlvrn" type="rss" xmlUrl="https://medium.com/feed/@wlvrn" htmlUrl="https://medium.com/@wlvrn?source=rss-e67095f3dd3a------2"/>
+<outline text="@brandice" title="@brandice" type="rss" xmlUrl="https://medium.com/feed/@brandice" htmlUrl="https://medium.com/@brandice?source=rss-f6c56cf4e627------2"/>
+<outline text="@Twig777" title="@Twig777" type="rss" xmlUrl="https://medium.com/feed/@Twig777" htmlUrl="https://medium.com/@Twig777?source=rss-16f49e14b323------2"/>
+<outline text="@kgn" title="@kgn" type="rss" xmlUrl="https://medium.com/feed/@kgn" htmlUrl="https://medium.com/@kgn?source=rss-de36aa0283c1------2"/>
+<outline text="@lazerwalker" title="@lazerwalker" type="rss" xmlUrl="https://medium.com/feed/@lazerwalker" htmlUrl="https://medium.com/@lazerwalker?source=rss-8115021888ca------2"/>
+<outline text="@benjaminpollack" title="@benjaminpollack" type="rss" xmlUrl="https://medium.com/feed/@benjaminpollack" htmlUrl="https://medium.com/@benjaminpollack?source=rss-c436361d010e------2"/>
+<outline text="@chrismaddern" title="@chrismaddern" type="rss" xmlUrl="https://medium.com/feed/@chrismaddern" htmlUrl="https://medium.com/@chrismaddern?source=rss-b455f0cdf89a------2"/>
+<outline text="@geigeb" title="@geigeb" type="rss" xmlUrl="https://medium.com/feed/@geigeb" htmlUrl="https://medium.com/@geigeb?source=rss-53fda6938dd5------2"/>
+<outline text="@edog1203" title="@edog1203" type="rss" xmlUrl="https://medium.com/feed/@edog1203" htmlUrl="https://medium.com/@edog1203?source=rss-d2b92eb78228------2"/>
+<outline text="@drewmccormack" title="@drewmccormack" type="rss" xmlUrl="https://medium.com/feed/@drewmccormack" htmlUrl="https://medium.com/@drewmccormack?source=rss-4082d9467366------2"/>
+<outline text="@tonymillion" title="@tonymillion" type="rss" xmlUrl="https://medium.com/feed/@tonymillion" htmlUrl="https://medium.com/@tonymillion?source=rss-b39f442e540------2"/>
+<outline text="@mb" title="@mb" type="rss" xmlUrl="https://medium.com/feed/@mb" htmlUrl="https://medium.com/@mb?source=rss-e730706421a2------2"/>
+<outline text="@bcapps" title="@bcapps" type="rss" xmlUrl="https://medium.com/feed/@bcapps" htmlUrl="https://medium.com/@bcapps?source=rss-96e8416e563d------2"/>
+<outline text="@stuartkhall" title="@stuartkhall" type="rss" xmlUrl="https://medium.com/feed/@stuartkhall" htmlUrl="https://medium.com/@stuartkhall?source=rss-1bcc47cae196------2"/>
+<outline text="@irace" title="@irace" type="rss" xmlUrl="https://medium.com/feed/@irace" htmlUrl="https://medium.com/@irace?source=rss-d87552dac7ce------2"/>
+<outline text="@allanmacgregor" title="@allanmacgregor" type="rss" xmlUrl="https://medium.com/feed/@allanmacgregor" htmlUrl="https://medium.com/@allanmacgregor?source=rss-4d0ae48f37f9------2"/>
+<outline text="@janelindner" title="@janelindner" type="rss" xmlUrl="https://medium.com/feed/@janelindner" htmlUrl="https://medium.com/@janelindner?source=rss-f144dc4364fa------2"/>
+<outline text="@jerols" title="@jerols" type="rss" xmlUrl="https://medium.com/feed/@jerols" htmlUrl="https://medium.com/@jerols?source=rss-ed548f4ba6ea------2"/>
+<outline text="@anthonyholland" title="@anthonyholland" type="rss" xmlUrl="https://medium.com/feed/@anthonyholland" htmlUrl="https://medium.com/@anthonyholland?source=rss-7f915c8e559b------2"/>
+<outline text="@ashfurrow" title="@ashfurrow" type="rss" xmlUrl="https://medium.com/feed/@ashfurrow" htmlUrl="https://medium.com/@ashfurrow?source=rss-2f838fbca107------2"/>
+<outline text="@nathanbarry" title="@nathanbarry" type="rss" xmlUrl="https://medium.com/feed/@nathanbarry" htmlUrl="https://medium.com/@nathanbarry?source=rss-ac3090433602------2"/>
+<outline text="@dayoneapp" title="@dayoneapp" type="rss" xmlUrl="https://medium.com/feed/@dayoneapp" htmlUrl="https://medium.com/@dayoneapp?source=rss-3175a53f8db6------2"/>
+<outline text="@williamlanier" title="@williamlanier" type="rss" xmlUrl="https://medium.com/feed/@williamlanier" htmlUrl="https://medium.com/@williamlanier?source=rss-2b2d2b988cd9------2"/>
+<outline text="@edsamour" title="@edsamour" type="rss" xmlUrl="https://medium.com/feed/@edsamour" htmlUrl="https://medium.com/@edsamour?source=rss-80115300dff2------2"/>
+<outline text="@justinabrahms" title="@justinabrahms" type="rss" xmlUrl="https://medium.com/feed/@justinabrahms" htmlUrl="https://medium.com/@justinabrahms?source=rss-58cde62887ad------2"/>
+<outline text="@jsnell" title="@jsnell" type="rss" xmlUrl="https://medium.com/feed/@jsnell" htmlUrl="https://medium.com/@jsnell?source=rss-c376de91cd8f------2"/>
+<outline text="@arepty" title="@arepty" type="rss" xmlUrl="https://medium.com/feed/@arepty" htmlUrl="https://medium.com/@arepty?source=rss-c9b455e3abac------2"/>
     </outline>
     <outline text="people_lots" title="people_lots">
 <outline text="Daring Fireball" title="Daring Fireball" type="rss" xmlUrl="http://daringfireball.net/index.xml" htmlUrl="http://daringfireball.net/"/>
