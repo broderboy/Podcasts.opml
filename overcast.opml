@@ -4,90 +4,47 @@
     <title>Overcast Podcast Subscriptions</title>
   </head>
   <body>
-    <outline type="rss" text="Freakonomics Radio" title="Freakonomics Radio" xmlUrl="http://feeds.feedburner.com/freakonomicsradio" htmlUrl="http://www.wnyc.org/articles/freakonomics-podcast/"/>
     <outline type="rss" text="Manager Tools" title="Manager Tools" xmlUrl="http://www.manager-tools.com/feeds/mt_podcasts.xml" htmlUrl="http://www.manager-tools.com/podcasts/manager-tools"/>
-    <outline type="rss" text="Radiolab" title="Radiolab" xmlUrl="http://feeds.wnyc.org/radiolab" htmlUrl="http://www.radiolab.org/series/podcasts/"/>
-    <outline type="rss" text="The Prompt" title="The Prompt" xmlUrl="http://feeds.5by5.tv/prompt" htmlUrl="http://5by5.tv/prompt"/>
     <outline type="rss" text="Iterate" title="Iterate" xmlUrl="http://feeds.feedburner.com/Iterate" htmlUrl="http://www.imore.com/iterate"/>
     <outline type="rss" text="Accidental Tech Podcast" title="Accidental Tech Podcast" xmlUrl="http://atp.fm/episodes?format=rss" htmlUrl="http://atp.fm/"/>
     <outline type="rss" text="Tara Brach" title="Tara Brach" xmlUrl="http://feeds.feedburner.com/TaraBrach" htmlUrl="http://www.tarabrach.com/"/>
-    <outline type="rss" text="How Did This Get Made?" title="How Did This Get Made?" xmlUrl="http://feeds.feedburner.com/HowDidThisGetMade" htmlUrl="http://www.earwolf.com/show/how-did-this-get-made/"/>
-    <outline type="rss" text="Bulletproof Radio" title="Bulletproof Radio" xmlUrl="http://www.podcastone.com/podcast?categoryID2=806" htmlUrl="http://podcastone.com/"/>
-    <outline type="rss" text="Developing Perspective" title="Developing Perspective" xmlUrl="http://developingperspective.com/feed/podcast/" htmlUrl="http://developingperspective.com/"/>
     <outline type="rss" text="Debug" title="Debug" xmlUrl="http://feeds.feedburner.com/debugshow" htmlUrl="http://www.imore.com/debug/"/>
-    <outline type="rss" text="The Sword and Laser (Audio)" title="The Sword and Laser (Audio)" xmlUrl="http://feeds.feedburner.com/TheSwordAndLaser" htmlUrl="http://www.swordandlaser.com/"/>
-    <outline type="rss" text="Core Intuition" title="Core Intuition" xmlUrl="http://www.coreint.org/podcast.xml" htmlUrl="http://www.coreint.org/"/>
-    <outline type="rss" text="CMD+Space" title="CMD+Space" xmlUrl="http://feeds.5by5.tv/cmdspace" htmlUrl="http://5by5.tv/cmdspace"/>
-    <outline type="rss" text="The Incomparable" title="The Incomparable" xmlUrl="http://feeds.theincomparable.com/theincomparable" htmlUrl="https://www.theincomparable.com/theincomparable/"/>
     <outline type="rss" text="Release Notes" title="Release Notes" xmlUrl="http://releasenotes.tv/feed/podcast/" htmlUrl="http://releasenotes.tv/"/>
-    <outline type="rss" text="Software Indie" title="Software Indie" xmlUrl="http://softwareindie.com/feed/podcast" htmlUrl="http://softwareindie.com/"/>
     <outline type="rss" text="Foundation" title="Foundation" xmlUrl="http://foundation.squealingrat.org/feed/" htmlUrl="http://foundation.squealingrat.org/"/>
-    <outline type="rss" text="Bitsplitting" title="Bitsplitting" xmlUrl="http://bitsplitting.org/?feed=podcast" htmlUrl="http://bitsplitting.org/"/>
-    <outline type="rss" text="The Art of Manliness" title="The Art of Manliness" xmlUrl="http://feeds.feedburner.com/artofmanlinesspodcast" htmlUrl="http://www.artofmanliness.com/"/>
-    <outline type="rss" text="Springboard" title="Springboard" xmlUrl="http://springboardshow.com/?format=rss" htmlUrl="http://springboardshow.com/"/>
-    <outline type="rss" text="Build Phase" title="Build Phase" xmlUrl="http://simplecast.fm/podcasts/272/rss" htmlUrl=""/>
-    <outline type="rss" text="Dads Being Dads" title="Dads Being Dads" xmlUrl="http://feeds.feedburner.com/dadsbeingdads/RXTv" htmlUrl="http://dadsbeingdads.net/"/>
     <outline type="rss" text="Ray Wenderlich" title="Ray Wenderlich" xmlUrl="http://feedpress.me/raywenderlich" htmlUrl="http://www.raywenderlich.com/"/>
     <outline type="rss" text="Turning This Car Around" title="Turning This Car Around" xmlUrl="http://feedpress.me/ttca" htmlUrl="http://turningthiscararound.com/"/>
-    <outline type="rss" text="The Lively Show" title="The Lively Show" xmlUrl="http://jesslively.com/feed/podcast/" htmlUrl="http://jesslively.com/"/>
+    <outline type="rss" text="How Did This Get Made?" title="How Did This Get Made?" xmlUrl="http://feeds.feedburner.com/HowDidThisGetMade" htmlUrl="http://www.earwolf.com/show/how-did-this-get-made/"/>
+    <outline type="rss" text="PreneurCast: Entrepreneurship, Business, Internet Marketing and Productivity" title="PreneurCast: Entrepreneurship, Business, Internet Marketing and Productivity" xmlUrl="http://feeds.feedburner.com/preneurcast" htmlUrl="http://www.preneurmarketing.com/"/>
+    <outline type="rss" text="The Incomparable" title="The Incomparable" xmlUrl="http://feeds.theincomparable.com/theincomparable" htmlUrl="https://www.theincomparable.com/theincomparable/"/>
+    <outline type="rss" text="The Laravel Podcast" title="The Laravel Podcast" xmlUrl="http://feeds.feedburner.com/laraveliopodcast" htmlUrl="http://laravel.com/"/>
     <outline type="rss" text="The Tim Ferriss Show" title="The Tim Ferriss Show" xmlUrl="http://feeds.feedburner.com/thetimferrissshow" htmlUrl="http://www.fourhourworkweek.com/"/>
     <outline type="rss" text="Pragmatic" title="Pragmatic" xmlUrl="http://techdistortion.com/podcasts/pragmatic/feed" htmlUrl="http://engineered.network/pragmatic"/>
-    <outline type="rss" text="Home Work" title="Home Work" xmlUrl="http://feeds.5by5.tv/homework" htmlUrl="http://5by5.tv/homework"/>
-    <outline type="rss" text="The Nathan Barry Show" title="The Nathan Barry Show" xmlUrl="http://nathanbarry.com/feed/podcast/" htmlUrl="http://nathanbarry.com/"/>
     <outline type="rss" text="iFanboy.com Comic Book Podcast" title="iFanboy.com Comic Book Podcast" xmlUrl="http://feeds.feedburner.com/ifanboyPOW" htmlUrl="http://www.ifanboy.com/"/>
-    <outline type="rss" text="Tech Douchebags" title="Tech Douchebags" xmlUrl="http://feeds.5by5.tv/tdb" htmlUrl="http://5by5.tv/tdb"/>
     <outline type="rss" text="Hello Internet" title="Hello Internet" xmlUrl="http://www.hellointernet.fm/podcast?format=rss" htmlUrl="http://www.hellointernet.fm/"/>
-    <outline type="rss" text="Sound of Symfony" title="Sound of Symfony" xmlUrl="http://feed.soundofsymfony.com/rss" htmlUrl="http://www.soundofsymfony.com/"/>
-    <outline type="rss" text="Virtual" title="Virtual" xmlUrl="http://relay.fm/virtual/feed" htmlUrl="http://www.relay.fm/virtual"/>
-    <outline type="rss" text="Connected" title="Connected" xmlUrl="http://relay.fm/connected/feed" htmlUrl="http://www.relay.fm/connected"/>
-    <outline type="rss" text="Inquisitive" title="Inquisitive" xmlUrl="http://relay.fm/inquisitive/feed" htmlUrl="http://www.relay.fm/inquisitive"/>
+    <outline type="rss" text="Inquisitive" title="Inquisitive" xmlUrl="http://relay.fm/inquisitive/feed" htmlUrl="https://www.relay.fm/inquisitive"/>
     <outline type="rss" text="StartUp Podcast" title="StartUp Podcast" xmlUrl="http://feeds.hearstartup.com/hearstartup" htmlUrl="http://gimletmedia.com/"/>
-    <outline type="rss" text="B-Sides" title="B-Sides" xmlUrl="http://www.relay.fm/b-sides/feed" htmlUrl="http://www.relay.fm/b-sides"/>
-    <outline type="rss" text="The New Stack Analysts" title="The New Stack Analysts" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:94518611/sounds.rss" htmlUrl="http://thenewstack.io/"/>
-    <outline type="rss" text="MageTalk: A Magento Podcast" title="MageTalk: A Magento Podcast" xmlUrl="http://feeds.feedburner.com/MageTalkAMagentoPodcast" htmlUrl="http://magetalk.com/"/>
-    <outline type="rss" text="Serial" title="Serial" xmlUrl="http://feeds.serialpodcast.org/serialpodcast" htmlUrl="http://serialpodcast.org/"/>
-    <outline type="rss" text="Podcast Reruns" title="Podcast Reruns" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=8c527db6f0bc8abded0526805a638f00&amp;_render=rss&amp;feed=http%3A%2F%2Ffeeds.5by5.tv%2Fbuildanalyze&amp;fromWeeks=152&amp;numWeeks=1" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=8c527db6f0bc8abded0526805a638f00"/>
-    <outline type="rss" text="Full Stack Radio" title="Full Stack Radio" xmlUrl="https://simplecast.fm/podcasts/279/rss" htmlUrl="http://fullstackradio.com/"/>
-    <outline type="rss" text="BONANZA!" title="BONANZA!" xmlUrl="http://relay.fm/bonanza/feed" htmlUrl="http://www.relay.fm/bonanza"/>
-    <outline type="rss" text="Show &amp; Tell Cast - The TEKSide Network" title="Show &amp; Tell Cast - The TEKSide Network" xmlUrl="http://clay-russell.squarespace.com/show-tell?format=rss" htmlUrl="http://tekside.net/show-tell/"/>
+    <outline type="rss" text="The Reboot Podcast" title="The Reboot Podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:106956234/sounds.rss" htmlUrl="http://reboot.io/"/>
+    <outline type="rss" text="Serial" title="Serial" xmlUrl="http://feeds.serialpodcast.org/serialpodcast" htmlUrl="https://serialpodcast.org/"/>
+    <outline type="rss" text="Show &amp; Tell Cast - The TEKSide Network" title="Show &amp; Tell Cast - The TEKSide Network" xmlUrl="http://clay-russell.squarespace.com/showandtell?format=rss" htmlUrl="http://tekside.net/showandtell/"/>
     <outline type="rss" text="Podcast Method" title="Podcast Method" xmlUrl="http://feeds.5by5.tv/podcastmethod" htmlUrl="http://5by5.tv/podcastmethod"/>
-    <outline type="rss" text="CocoaPods as? Podcast" title="CocoaPods as? Podcast" xmlUrl="http://thepodcast.co/feed.rss" htmlUrl="http://thepodcast.co/"/>
-    <outline type="rss" text="Developer Tea" title="Developer Tea" xmlUrl="http://feeds.feedburner.com/DeveloperTea" htmlUrl="http://www.developertea.com/"/>
-    <outline type="rss" text="iOS Bytes" title="iOS Bytes" xmlUrl="https://iosbytes.codeschool.com/feed.rss" htmlUrl="https://iosbytes.codeschool.com/"/>
-    <outline type="rss" text="Rocket" title="Rocket" xmlUrl="http://www.relay.fm/rocket/feed" htmlUrl="http://www.relay.fm/rocket"/>
-    <outline type="rss" text="Topical" title="Topical" xmlUrl="https://podcasts.jellystyle.com/topical/rss" htmlUrl="http://topical.fm/"/>
-    <outline type="rss" text="Robot or Not?" title="Robot or Not?" xmlUrl="http://feeds.theincomparable.com/robot" htmlUrl="https://www.theincomparable.com/robot/"/>
-    <outline type="rss" text="Cortex" title="Cortex" xmlUrl="http://www.relay.fm/cortex/feed" htmlUrl="http://www.relay.fm/cortex"/>
-    <outline type="rss" text="The Jacked Cast - The TEKSide Network" title="The Jacked Cast - The TEKSide Network" xmlUrl="http://tekside.net/jacked?format=rss" htmlUrl="http://tekside.net/jacked/"/>
+    <outline type="rss" text="Cortex" title="Cortex" xmlUrl="http://www.relay.fm/cortex/feed" htmlUrl="https://www.relay.fm/cortex"/>
+    <outline type="rss" text="The Jacked Cast - The TEKSide Network" title="The Jacked Cast - The TEKSide Network" xmlUrl="http://clay-russell.squarespace.com/jacked?format=rss" htmlUrl="http://tekside.net/jacked/"/>
     <outline type="rss" text="timbroder on Huffduffer" title="timbroder on Huffduffer" xmlUrl="https://huffduffer.com/timbroder/rss" htmlUrl="https://huffduffer.com/timbroder"/>
-    <outline type="rss" text="Top Four" title="Top Four" xmlUrl="http://www.relay.fm/topfour/feed" htmlUrl="http://www.relay.fm/topfour"/>
-    <outline type="rss" text="Thoroughly Considered" title="Thoroughly Considered" xmlUrl="http://www.relay.fm/tc/feed" htmlUrl="http://www.relay.fm/tc"/>
-    <outline type="rss" text="Under the Radar" title="Under the Radar" xmlUrl="http://www.relay.fm/radar/feed" htmlUrl="http://www.relay.fm/radar"/>
-    <outline type="rss" text="The Laravel Podcast" title="The Laravel Podcast" xmlUrl="http://feeds.feedburner.com/laraveliopodcast" htmlUrl="http://laravel.com/"/>
-    <outline type="rss" text="Review" title="Review" xmlUrl="http://feeds.feedburner.com/adhocshow" htmlUrl="http://www.imore.com/reviewcast"/>
+    <outline type="rss" text="Top Four" title="Top Four" xmlUrl="http://www.relay.fm/topfour/feed" htmlUrl="https://www.relay.fm/topfour"/>
+    <outline type="rss" text="Thoroughly Considered" title="Thoroughly Considered" xmlUrl="http://www.relay.fm/tc/feed" htmlUrl="https://www.relay.fm/tc"/>
+    <outline type="rss" text="Under the Radar" title="Under the Radar" xmlUrl="http://www.relay.fm/radar/feed" htmlUrl="https://www.relay.fm/radar"/>
     <outline type="rss" text="Quit" title="Quit" xmlUrl="http://feeds.5by5.tv/quit" htmlUrl="http://5by5.tv/quit"/>
-    <outline type="rss" text="iOSDocked Podcast - The TEKSide Network" title="iOSDocked Podcast - The TEKSide Network" xmlUrl="https://clay-russell.squarespace.com/iosdocked?format=rss" htmlUrl="http://tekside.net/iosdocked/"/>
-    <outline type="rss" text="The Weekly Briefly" title="The Weekly Briefly" xmlUrl="http://feedpress.me/weeklybriefly" htmlUrl="http://weeklybriefly.net/"/>
-    <outline type="rss" text="CocoaRadio" title="CocoaRadio" xmlUrl="http://feedpress.me/cocoaradio" htmlUrl="http://carpeaqua.com/cocoaradio"/>
-    <outline type="rss" text="Mac Power Users" title="Mac Power Users" xmlUrl="http://feeds.5by5.tv/mpu" htmlUrl="http://www.relay.fm/mpu"/>
-    <outline type="rss" text="Shawn Today" title="Shawn Today" xmlUrl="http://feeds.feedburner.com/shawntoday" htmlUrl="http://today.shawnblanc.net/"/>
-    <outline type="rss" text="The Record" title="The Record" xmlUrl="http://feedpress.me/therecord" htmlUrl="http://therecord.co/"/>
-    <outline type="rss" text="NSBrief" title="NSBrief" xmlUrl="http://nsbrief.com/feeds/rss.xml" htmlUrl="http://nsbrief.com/"/>
+    <outline type="rss" text="Mac Power Users" title="Mac Power Users" xmlUrl="http://feeds.5by5.tv/mpu" htmlUrl="https://www.relay.fm/mpu"/>
     <outline type="rss" text="The Talk Show With John Gruber" title="The Talk Show With John Gruber" xmlUrl="http://daringfireball.net/thetalkshow/rss" htmlUrl="http://daringfireball.net/thetalkshow"/>
-    <outline type="rss" text="Defocused" title="Defocused" xmlUrl="http://defocused.co/defocused/rss.xml" htmlUrl="https://www.theincomparable.com/defocused/"/>
     <outline type="rss" text="Back to Work" title="Back to Work" xmlUrl="http://feeds.5by5.tv/b2w/" htmlUrl="http://5by5.tv/b2w"/>
-    <outline type="rss" text="Notification Center" title="Notification Center" xmlUrl="http://www.notificationcenter.tv/feed.rss" htmlUrl="http://notificationcenter.tv/"/>
     <outline type="rss" text="Founders Talk" title="Founders Talk" xmlUrl="http://feeds.5by5.tv/founderstalk/" htmlUrl="http://5by5.tv/founderstalk"/>
-    <outline type="rss" text="Analog(ue)" title="Analog(ue)" xmlUrl="http://relay.fm/analogue/feed" htmlUrl="http://www.relay.fm/analogue"/>
-    <outline type="rss" text="Doctor Who - TeeVee" title="Doctor Who - TeeVee" xmlUrl="http://feeds.theincomparable.com/doctorwho" htmlUrl="http://www.theincomparable.com/doctor_who/"/>
-    <outline type="rss" text="The New Stack Makers" title="The New Stack Makers" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:107605642/sounds.rss" htmlUrl="http://soundcloud.com/thenewstackmakers"/>
-    <outline type="rss" text="Upgrade" title="Upgrade" xmlUrl="http://relay.fm/upgrade/feed" htmlUrl="http://www.relay.fm/upgrade"/>
-    <outline type="rss" text="How I Became an Independent Podcaster" title="How I Became an Independent Podcaster" xmlUrl="http://podcasts.apple.com/eaas/uk/special_event/hurley_podcast/hurley_podcast.xml" htmlUrl="http://www.apple.com/"/>
+    <outline type="rss" text="Analog(ue)" title="Analog(ue)" xmlUrl="http://relay.fm/analogue/feed" htmlUrl="https://www.relay.fm/analogue"/>
+    <outline type="rss" text="Reply All" title="Reply All" xmlUrl="http://feeds.gimletmedia.com/hearreplyall" htmlUrl="http://gimletmedia.com/shows/reply-all"/>
     <outline type="rss" text="GTDJedi Podcast - The TEKSide Network" title="GTDJedi Podcast - The TEKSide Network" xmlUrl="http://clay-russell.squarespace.com/gtdjedi?format=rss" htmlUrl="http://tekside.net/gtdjedi/"/>
     <outline type="rss" text="Getting Things Done" title="Getting Things Done" xmlUrl="http://gettingthingsdone.libsyn.com/rss" htmlUrl="http://gettingthingsdone.com/podcasts/"/>
-    <outline type="rss" text="Reconcilable Differences" title="Reconcilable Differences" xmlUrl="http://www.relay.fm/rd/feed" htmlUrl="http://www.relay.fm/rd"/>
+    <outline type="rss" text="Reconcilable Differences" title="Reconcilable Differences" xmlUrl="http://www.relay.fm/rd/feed" htmlUrl="https://www.relay.fm/rd"/>
     <outline type="rss" text="The Next Action Podcast" title="The Next Action Podcast" xmlUrl="http://feeds.feedburner.com/naa" htmlUrl="http://www.next-action.eu/"/>
-    <outline type="rss" text="PreneurCast: Entrepreneurship, Business, Internet Marketing and Productivity" title="PreneurCast: Entrepreneurship, Business, Internet Marketing and Productivity" xmlUrl="http://feeds.feedburner.com/preneurcast" htmlUrl="http://www.preneurmarketing.com/"/>
-    <outline type="rss" text="The Reboot Podcast" title="The Reboot Podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:106956234/sounds.rss" htmlUrl="http://reboot.io/"/>
+    <outline type="rss" text="Laravel News Podcast" title="Laravel News Podcast" xmlUrl="http://simplecast.fm/podcasts/1356/rss" htmlUrl="https://laravel-news.com/"/>
+    <outline type="rss" text="Sound of Symfony" title="Sound of Symfony" xmlUrl="http://feed.soundofsymfony.com/rss" htmlUrl="http://www.soundofsymfony.com/"/>
   </body>
 </opml>
